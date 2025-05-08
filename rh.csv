@@ -1,0 +1,1001 @@
+ID,Nome,Idade,Sexo,Departamento,Cargo,Salario,Data Admissao,Tempo Empresa (anos),Estado Civil,Cidade,Nível Escolaridade
+1,Funcionário 1,56,Masculino,RH,Diretor,7574,2011-12-19,11,Viúvo,Curitiba,Pós-Graduação
+2,Funcionário 2,46,Feminino,RH,Assistente,6072,2019-07-17,3,Divorciado,Belo Horizonte,Superior Completo
+3,Funcionário 3,32,Feminino,RH,Assistente,4257,2022-02-21,1,Casado,Rio de Janeiro,Mestrado
+4,Funcionário 4,60,Feminino,Logística,Gerente,12980,2011-10-21,11,Divorciado,Curitiba,Superior Completo
+5,Funcionário 5,25,Masculino,RH,Gerente,10588,2020-12-22,2,Divorciado,Belo Horizonte,Doutorado
+6,Funcionário 6,38,Masculino,Marketing,Assistente,12270,2022-05-22,0,Casado,Belo Horizonte,Superior Completo
+7,Funcionário 7,56,Masculino,Financeiro,Assistente,14936,2021-08-05,1,Casado,Porto Alegre,Pós-Graduação
+8,Funcionário 8,36,Masculino,TI,Diretor,6424,2020-04-22,3,Viúvo,Belo Horizonte,Pós-Graduação
+9,Funcionário 9,40,Masculino,Vendas,Coordenador,5237,2018-03-09,5,Viúvo,São Paulo,Superior Completo
+10,Funcionário 10,28,Masculino,Marketing,Gerente,5893,2022-09-12,0,Solteiro,Curitiba,Pós-Graduação
+11,Funcionário 11,28,Masculino,TI,Coordenador,4005,2015-10-06,7,Solteiro,São Paulo,Pós-Graduação
+12,Funcionário 12,41,Masculino,Marketing,Diretor,4016,2013-06-09,9,Divorciado,Curitiba,Doutorado
+13,Funcionário 13,53,Feminino,Marketing,Assistente,13363,2016-10-18,6,Casado,Porto Alegre,Mestrado
+14,Funcionário 14,57,Feminino,Vendas,Coordenador,12860,2011-01-19,12,Solteiro,Belo Horizonte,Doutorado
+15,Funcionário 15,41,Masculino,Financeiro,Assistente,12070,2017-02-20,6,Divorciado,Belo Horizonte,Ensino Médio
+16,Funcionário 16,20,Masculino,RH,Assistente,11388,2010-07-13,12,Casado,Belo Horizonte,Doutorado
+17,Funcionário 17,39,Feminino,Logística,Analista,3772,2020-06-04,2,Viúvo,Curitiba,Superior Completo
+18,Funcionário 18,19,Masculino,Financeiro,Coordenador,10353,2020-03-08,3,Divorciado,Belo Horizonte,Mestrado
+19,Funcionário 19,41,Masculino,Logística,Coordenador,5976,2017-01-25,6,Viúvo,São Paulo,Superior Completo
+20,Funcionário 20,61,Masculino,Vendas,Assistente,3751,2017-01-09,6,Solteiro,Belo Horizonte,Ensino Médio
+21,Funcionário 21,47,Feminino,Vendas,Diretor,10967,2017-07-26,5,Solteiro,Porto Alegre,Mestrado
+22,Funcionário 22,55,Feminino,Vendas,Analista,9430,2017-08-30,5,Casado,São Paulo,Pós-Graduação
+23,Funcionário 23,19,Feminino,TI,Assistente,9170,2016-05-28,6,Divorciado,Belo Horizonte,Doutorado
+24,Funcionário 24,38,Feminino,Logística,Gerente,8469,2019-04-30,4,Viúvo,Belo Horizonte,Superior Completo
+25,Funcionário 25,50,Feminino,Financeiro,Gerente,11131,2012-01-02,11,Casado,Rio de Janeiro,Ensino Médio
+26,Funcionário 26,29,Masculino,Financeiro,Analista,5220,2017-11-12,5,Solteiro,Curitiba,Pós-Graduação
+27,Funcionário 27,39,Feminino,Marketing,Diretor,2539,2018-07-18,4,Solteiro,São Paulo,Doutorado
+28,Funcionário 28,61,Masculino,Marketing,Assistente,3461,2021-06-09,1,Divorciado,Rio de Janeiro,Pós-Graduação
+29,Funcionário 29,42,Masculino,Marketing,Coordenador,7184,2017-02-17,6,Viúvo,Porto Alegre,Doutorado
+30,Funcionário 30,44,Feminino,Vendas,Analista,10547,2016-07-10,6,Divorciado,Curitiba,Mestrado
+31,Funcionário 31,59,Feminino,Financeiro,Diretor,13796,2011-06-16,11,Viúvo,São Paulo,Pós-Graduação
+32,Funcionário 32,45,Masculino,Logística,Coordenador,13515,2021-10-26,1,Viúvo,Belo Horizonte,Pós-Graduação
+33,Funcionário 33,33,Masculino,Vendas,Gerente,2234,2011-09-27,11,Divorciado,São Paulo,Pós-Graduação
+34,Funcionário 34,32,Masculino,TI,Gerente,3548,2014-11-05,8,Casado,Belo Horizonte,Mestrado
+35,Funcionário 35,64,Feminino,Marketing,Coordenador,9480,2020-06-01,2,Divorciado,Curitiba,Ensino Médio
+36,Funcionário 36,61,Feminino,Vendas,Analista,12288,2016-06-28,6,Divorciado,Belo Horizonte,Doutorado
+37,Funcionário 37,20,Feminino,Vendas,Gerente,6213,2010-01-03,13,Solteiro,Porto Alegre,Pós-Graduação
+38,Funcionário 38,54,Feminino,TI,Assistente,12293,2010-07-25,12,Solteiro,Belo Horizonte,Mestrado
+39,Funcionário 39,24,Feminino,RH,Coordenador,3673,2021-04-28,2,Divorciado,Porto Alegre,Ensino Médio
+40,Funcionário 40,38,Masculino,Financeiro,Coordenador,8708,2017-03-06,6,Divorciado,Curitiba,Doutorado
+41,Funcionário 41,26,Feminino,Logística,Gerente,9982,2022-12-23,0,Solteiro,Curitiba,Mestrado
+42,Funcionário 42,56,Masculino,RH,Analista,4100,2017-11-30,5,Viúvo,São Paulo,Doutorado
+43,Funcionário 43,35,Masculino,Marketing,Assistente,13849,2018-09-29,4,Divorciado,Porto Alegre,Pós-Graduação
+44,Funcionário 44,21,Masculino,Vendas,Analista,14845,2017-04-20,6,Casado,Porto Alegre,Ensino Médio
+45,Funcionário 45,42,Feminino,TI,Diretor,13788,2019-01-20,4,Casado,Rio de Janeiro,Mestrado
+46,Funcionário 46,31,Feminino,TI,Diretor,5748,2012-06-16,10,Casado,Rio de Janeiro,Ensino Médio
+47,Funcionário 47,26,Feminino,Financeiro,Gerente,5173,2012-12-21,10,Divorciado,Rio de Janeiro,Pós-Graduação
+48,Funcionário 48,43,Masculino,RH,Gerente,3815,2013-07-03,9,Viúvo,Belo Horizonte,Ensino Médio
+49,Funcionário 49,19,Masculino,Financeiro,Gerente,5841,2011-11-02,11,Viúvo,Rio de Janeiro,Ensino Médio
+50,Funcionário 50,37,Masculino,Vendas,Diretor,12197,2014-02-14,9,Solteiro,Porto Alegre,Superior Completo
+51,Funcionário 51,45,Masculino,Financeiro,Analista,10016,2019-10-16,3,Divorciado,Belo Horizonte,Ensino Médio
+52,Funcionário 52,64,Masculino,Logística,Analista,9011,2015-05-10,8,Viúvo,Curitiba,Doutorado
+53,Funcionário 53,24,Masculino,TI,Gerente,6493,2010-09-07,12,Divorciado,São Paulo,Mestrado
+54,Funcionário 54,61,Feminino,TI,Assistente,2674,2015-03-08,8,Solteiro,Rio de Janeiro,Superior Completo
+55,Funcionário 55,25,Feminino,Marketing,Analista,10088,2019-06-02,3,Solteiro,Curitiba,Mestrado
+56,Funcionário 56,64,Feminino,Marketing,Diretor,10578,2015-01-28,8,Solteiro,Porto Alegre,Mestrado
+57,Funcionário 57,52,Feminino,Vendas,Coordenador,4158,2017-10-25,5,Casado,São Paulo,Pós-Graduação
+58,Funcionário 58,31,Masculino,Logística,Coordenador,4661,2014-02-12,9,Divorciado,Curitiba,Pós-Graduação
+59,Funcionário 59,34,Masculino,RH,Coordenador,4064,2019-04-09,4,Solteiro,São Paulo,Superior Completo
+60,Funcionário 60,53,Feminino,Financeiro,Assistente,14043,2019-10-12,3,Divorciado,Rio de Janeiro,Pós-Graduação
+61,Funcionário 61,57,Masculino,Vendas,Gerente,5253,2020-05-20,2,Casado,Porto Alegre,Pós-Graduação
+62,Funcionário 62,21,Feminino,Marketing,Diretor,6979,2019-05-20,3,Casado,São Paulo,Pós-Graduação
+63,Funcionário 63,19,Feminino,Financeiro,Assistente,9703,2010-02-13,13,Solteiro,Curitiba,Mestrado
+64,Funcionário 64,23,Feminino,Marketing,Diretor,14828,2019-11-22,3,Solteiro,Rio de Janeiro,Superior Completo
+65,Funcionário 65,59,Masculino,Financeiro,Diretor,14458,2017-03-03,6,Viúvo,Rio de Janeiro,Mestrado
+66,Funcionário 66,21,Feminino,RH,Gerente,10931,2022-10-23,0,Divorciado,Curitiba,Doutorado
+67,Funcionário 67,46,Feminino,Vendas,Coordenador,3401,2018-08-30,4,Solteiro,Curitiba,Mestrado
+68,Funcionário 68,35,Feminino,Financeiro,Gerente,5259,2013-07-12,9,Viúvo,São Paulo,Doutorado
+69,Funcionário 69,43,Masculino,Logística,Assistente,12469,2018-01-21,5,Divorciado,Belo Horizonte,Ensino Médio
+70,Funcionário 70,61,Masculino,TI,Assistente,14096,2010-08-08,12,Solteiro,Rio de Janeiro,Ensino Médio
+71,Funcionário 71,51,Feminino,Logística,Assistente,5923,2015-04-10,8,Viúvo,São Paulo,Doutorado
+72,Funcionário 72,27,Masculino,Logística,Gerente,6214,2018-02-20,5,Viúvo,Curitiba,Doutorado
+73,Funcionário 73,53,Masculino,TI,Diretor,5227,2019-08-15,3,Divorciado,São Paulo,Mestrado
+74,Funcionário 74,31,Masculino,Logística,Diretor,13023,2016-09-14,6,Viúvo,Curitiba,Doutorado
+75,Funcionário 75,48,Masculino,Financeiro,Analista,13950,2019-07-04,3,Divorciado,Porto Alegre,Superior Completo
+76,Funcionário 76,32,Masculino,Financeiro,Assistente,12704,2017-08-06,5,Divorciado,Curitiba,Ensino Médio
+77,Funcionário 77,25,Masculino,Financeiro,Diretor,12343,2012-09-17,10,Divorciado,Curitiba,Ensino Médio
+78,Funcionário 78,31,Masculino,TI,Analista,13867,2018-01-25,5,Casado,Curitiba,Doutorado
+79,Funcionário 79,40,Masculino,Logística,Diretor,4745,2014-12-18,8,Viúvo,Belo Horizonte,Pós-Graduação
+80,Funcionário 80,57,Masculino,TI,Assistente,8091,2012-03-14,11,Divorciado,Curitiba,Pós-Graduação
+81,Funcionário 81,38,Masculino,Financeiro,Coordenador,5866,2011-05-05,12,Solteiro,Rio de Janeiro,Doutorado
+82,Funcionário 82,33,Feminino,Logística,Assistente,13956,2019-09-27,3,Casado,Rio de Janeiro,Superior Completo
+83,Funcionário 83,62,Feminino,Logística,Gerente,7818,2014-02-02,9,Casado,São Paulo,Pós-Graduação
+84,Funcionário 84,35,Masculino,Marketing,Diretor,4222,2019-12-25,3,Viúvo,Belo Horizonte,Doutorado
+85,Funcionário 85,64,Feminino,Marketing,Diretor,4792,2017-12-01,5,Divorciado,São Paulo,Superior Completo
+86,Funcionário 86,41,Feminino,RH,Gerente,11889,2014-09-02,8,Viúvo,Rio de Janeiro,Superior Completo
+87,Funcionário 87,43,Masculino,Vendas,Gerente,13654,2019-08-18,3,Casado,Rio de Janeiro,Mestrado
+88,Funcionário 88,42,Masculino,Marketing,Coordenador,6063,2019-02-23,4,Divorciado,Porto Alegre,Superior Completo
+89,Funcionário 89,62,Masculino,TI,Diretor,3524,2010-02-23,13,Solteiro,Curitiba,Pós-Graduação
+90,Funcionário 90,58,Feminino,Marketing,Diretor,14952,2017-01-19,6,Divorciado,Rio de Janeiro,Pós-Graduação
+91,Funcionário 91,46,Feminino,RH,Coordenador,10224,2019-11-01,3,Casado,São Paulo,Doutorado
+92,Funcionário 92,32,Masculino,Logística,Analista,8198,2011-09-08,11,Solteiro,São Paulo,Doutorado
+93,Funcionário 93,62,Masculino,RH,Coordenador,6025,2012-08-12,10,Divorciado,Curitiba,Superior Completo
+94,Funcionário 94,18,Masculino,Logística,Assistente,4566,2016-08-30,6,Solteiro,Curitiba,Ensino Médio
+95,Funcionário 95,42,Feminino,Logística,Diretor,4803,2014-06-18,8,Solteiro,Porto Alegre,Mestrado
+96,Funcionário 96,24,Feminino,Vendas,Gerente,14088,2017-08-13,5,Casado,Belo Horizonte,Ensino Médio
+97,Funcionário 97,26,Feminino,Marketing,Assistente,5709,2011-10-12,11,Solteiro,São Paulo,Superior Completo
+98,Funcionário 98,41,Feminino,TI,Diretor,8155,2016-06-05,6,Viúvo,Curitiba,Superior Completo
+99,Funcionário 99,18,Masculino,TI,Coordenador,2719,2022-04-18,1,Casado,São Paulo,Ensino Médio
+100,Funcionário 100,61,Masculino,Financeiro,Assistente,8516,2018-12-23,4,Viúvo,Curitiba,Mestrado
+101,Funcionário 101,25,Masculino,Logística,Diretor,6579,2017-03-25,6,Solteiro,Rio de Janeiro,Ensino Médio
+102,Funcionário 102,41,Masculino,TI,Analista,2972,2020-05-29,2,Viúvo,São Paulo,Doutorado
+103,Funcionário 103,28,Feminino,Vendas,Analista,5718,2017-01-05,6,Divorciado,Rio de Janeiro,Pós-Graduação
+104,Funcionário 104,34,Feminino,Logística,Gerente,9395,2018-11-24,4,Solteiro,São Paulo,Doutorado
+105,Funcionário 105,25,Masculino,Vendas,Diretor,6402,2011-01-06,12,Divorciado,Belo Horizonte,Pós-Graduação
+106,Funcionário 106,52,Masculino,TI,Analista,6552,2012-05-07,11,Viúvo,Porto Alegre,Superior Completo
+107,Funcionário 107,52,Feminino,TI,Coordenador,4207,2011-01-19,12,Divorciado,Rio de Janeiro,Mestrado
+108,Funcionário 108,50,Masculino,Financeiro,Diretor,6426,2020-08-13,2,Solteiro,Curitiba,Ensino Médio
+109,Funcionário 109,22,Feminino,TI,Coordenador,8919,2016-12-27,6,Divorciado,Belo Horizonte,Mestrado
+110,Funcionário 110,59,Masculino,Logística,Coordenador,14512,2021-11-13,1,Viúvo,São Paulo,Ensino Médio
+111,Funcionário 111,56,Masculino,Logística,Analista,13222,2021-09-30,1,Viúvo,Rio de Janeiro,Doutorado
+112,Funcionário 112,58,Masculino,Logística,Diretor,13767,2017-06-18,5,Viúvo,São Paulo,Doutorado
+113,Funcionário 113,45,Masculino,Financeiro,Assistente,13308,2021-01-17,2,Solteiro,São Paulo,Ensino Médio
+114,Funcionário 114,24,Masculino,Financeiro,Analista,13477,2019-01-07,4,Viúvo,São Paulo,Mestrado
+115,Funcionário 115,26,Masculino,TI,Analista,10835,2021-08-22,1,Solteiro,Porto Alegre,Ensino Médio
+116,Funcionário 116,25,Masculino,RH,Diretor,14903,2020-12-02,2,Divorciado,Porto Alegre,Superior Completo
+117,Funcionário 117,29,Feminino,RH,Diretor,10386,2012-07-11,10,Viúvo,Curitiba,Doutorado
+118,Funcionário 118,51,Feminino,Financeiro,Coordenador,14188,2017-12-25,5,Divorciado,Rio de Janeiro,Superior Completo
+119,Funcionário 119,50,Feminino,TI,Diretor,10680,2018-01-29,5,Casado,Belo Horizonte,Doutorado
+120,Funcionário 120,40,Feminino,RH,Coordenador,4204,2018-05-05,5,Divorciado,Belo Horizonte,Doutorado
+121,Funcionário 121,41,Feminino,TI,Analista,12849,2012-09-01,10,Casado,Belo Horizonte,Pós-Graduação
+122,Funcionário 122,54,Masculino,TI,Gerente,7345,2013-05-15,9,Divorciado,São Paulo,Superior Completo
+123,Funcionário 123,52,Masculino,TI,Assistente,5276,2016-09-01,6,Solteiro,Porto Alegre,Superior Completo
+124,Funcionário 124,61,Feminino,Marketing,Analista,3102,2014-12-20,8,Divorciado,Rio de Janeiro,Pós-Graduação
+125,Funcionário 125,57,Masculino,Logística,Diretor,7243,2018-01-13,5,Solteiro,São Paulo,Mestrado
+126,Funcionário 126,39,Feminino,TI,Assistente,8614,2013-09-25,9,Solteiro,Porto Alegre,Superior Completo
+127,Funcionário 127,44,Feminino,Marketing,Gerente,11433,2020-10-15,2,Viúvo,Porto Alegre,Ensino Médio
+128,Funcionário 128,52,Masculino,Financeiro,Gerente,10707,2010-07-23,12,Solteiro,Rio de Janeiro,Pós-Graduação
+129,Funcionário 129,18,Masculino,RH,Coordenador,7223,2010-06-10,12,Casado,Rio de Janeiro,Superior Completo
+130,Funcionário 130,52,Masculino,Logística,Assistente,10584,2022-04-15,1,Viúvo,Rio de Janeiro,Mestrado
+131,Funcionário 131,54,Feminino,RH,Coordenador,2630,2012-02-08,11,Viúvo,São Paulo,Superior Completo
+132,Funcionário 132,64,Masculino,Logística,Analista,13908,2020-04-06,3,Divorciado,Curitiba,Doutorado
+133,Funcionário 133,31,Feminino,RH,Assistente,12039,2017-01-25,6,Solteiro,Rio de Janeiro,Ensino Médio
+134,Funcionário 134,20,Feminino,Logística,Analista,12847,2012-12-29,10,Solteiro,Curitiba,Pós-Graduação
+135,Funcionário 135,18,Feminino,RH,Coordenador,11171,2022-04-28,1,Casado,São Paulo,Doutorado
+136,Funcionário 136,22,Masculino,RH,Assistente,14721,2011-08-31,11,Divorciado,Curitiba,Mestrado
+137,Funcionário 137,43,Masculino,RH,Coordenador,13594,2014-03-21,9,Divorciado,Belo Horizonte,Doutorado
+138,Funcionário 138,31,Feminino,RH,Assistente,14063,2017-11-15,5,Viúvo,Curitiba,Doutorado
+139,Funcionário 139,56,Masculino,Financeiro,Coordenador,8683,2018-09-27,4,Viúvo,Rio de Janeiro,Mestrado
+140,Funcionário 140,44,Masculino,TI,Gerente,2277,2015-01-12,8,Viúvo,São Paulo,Doutorado
+141,Funcionário 141,26,Masculino,Vendas,Coordenador,2232,2011-11-21,11,Casado,Rio de Janeiro,Pós-Graduação
+142,Funcionário 142,32,Feminino,Marketing,Gerente,11744,2020-04-17,3,Casado,Belo Horizonte,Superior Completo
+143,Funcionário 143,32,Feminino,Vendas,Coordenador,7690,2018-01-28,5,Viúvo,Rio de Janeiro,Doutorado
+144,Funcionário 144,43,Masculino,Vendas,Assistente,9659,2015-10-05,7,Divorciado,Rio de Janeiro,Pós-Graduação
+145,Funcionário 145,59,Feminino,Logística,Assistente,13462,2011-01-01,12,Casado,Rio de Janeiro,Superior Completo
+146,Funcionário 146,30,Masculino,TI,Assistente,12601,2019-10-16,3,Divorciado,Porto Alegre,Superior Completo
+147,Funcionário 147,49,Masculino,Logística,Diretor,13704,2022-06-17,0,Divorciado,Belo Horizonte,Doutorado
+148,Funcionário 148,56,Masculino,TI,Analista,2025,2021-07-01,1,Solteiro,Rio de Janeiro,Pós-Graduação
+149,Funcionário 149,49,Masculino,TI,Assistente,9468,2021-06-04,1,Viúvo,Rio de Janeiro,Doutorado
+150,Funcionário 150,21,Feminino,RH,Gerente,8410,2021-11-04,1,Solteiro,Rio de Janeiro,Mestrado
+151,Funcionário 151,47,Feminino,Financeiro,Assistente,10652,2016-07-06,6,Viúvo,São Paulo,Superior Completo
+152,Funcionário 152,54,Feminino,RH,Diretor,5764,2013-04-20,10,Viúvo,Porto Alegre,Doutorado
+153,Funcionário 153,40,Masculino,Financeiro,Gerente,8599,2020-07-06,2,Divorciado,São Paulo,Superior Completo
+154,Funcionário 154,56,Masculino,Logística,Diretor,13623,2017-06-28,5,Viúvo,Porto Alegre,Pós-Graduação
+155,Funcionário 155,62,Masculino,Financeiro,Gerente,7102,2019-03-02,4,Divorciado,Rio de Janeiro,Ensino Médio
+156,Funcionário 156,32,Feminino,Logística,Coordenador,9006,2014-08-03,8,Divorciado,Belo Horizonte,Doutorado
+157,Funcionário 157,60,Masculino,Vendas,Analista,5483,2010-10-26,12,Viúvo,Curitiba,Doutorado
+158,Funcionário 158,46,Feminino,Vendas,Analista,3994,2012-08-14,10,Divorciado,Curitiba,Superior Completo
+159,Funcionário 159,53,Feminino,Financeiro,Diretor,10682,2013-01-19,10,Divorciado,Rio de Janeiro,Pós-Graduação
+160,Funcionário 160,30,Feminino,Financeiro,Analista,3072,2016-11-10,6,Divorciado,São Paulo,Mestrado
+161,Funcionário 161,49,Feminino,Logística,Diretor,8707,2014-01-14,9,Casado,Belo Horizonte,Pós-Graduação
+162,Funcionário 162,24,Feminino,RH,Diretor,13365,2022-03-19,1,Divorciado,Porto Alegre,Doutorado
+163,Funcionário 163,39,Feminino,Logística,Diretor,2215,2022-03-05,1,Casado,Rio de Janeiro,Mestrado
+164,Funcionário 164,45,Masculino,RH,Analista,9605,2020-03-15,3,Casado,Belo Horizonte,Pós-Graduação
+165,Funcionário 165,19,Masculino,Vendas,Diretor,11915,2019-07-04,3,Divorciado,Belo Horizonte,Ensino Médio
+166,Funcionário 166,59,Feminino,TI,Analista,11784,2017-09-29,5,Divorciado,Porto Alegre,Superior Completo
+167,Funcionário 167,62,Feminino,Financeiro,Diretor,4606,2017-10-21,5,Casado,Belo Horizonte,Pós-Graduação
+168,Funcionário 168,23,Masculino,RH,Assistente,10350,2016-11-11,6,Casado,São Paulo,Pós-Graduação
+169,Funcionário 169,45,Feminino,Logística,Diretor,6781,2020-04-28,3,Divorciado,São Paulo,Ensino Médio
+170,Funcionário 170,45,Feminino,Vendas,Gerente,5313,2018-02-12,5,Divorciado,São Paulo,Doutorado
+171,Funcionário 171,61,Masculino,RH,Diretor,13033,2022-07-31,0,Viúvo,Belo Horizonte,Superior Completo
+172,Funcionário 172,61,Feminino,Logística,Coordenador,11968,2012-08-07,10,Casado,São Paulo,Pós-Graduação
+173,Funcionário 173,37,Feminino,Financeiro,Diretor,12244,2022-08-09,0,Casado,Porto Alegre,Mestrado
+174,Funcionário 174,47,Feminino,Financeiro,Gerente,9763,2017-10-21,5,Viúvo,Belo Horizonte,Pós-Graduação
+175,Funcionário 175,28,Masculino,Marketing,Gerente,7939,2010-06-15,12,Casado,Curitiba,Superior Completo
+176,Funcionário 176,45,Masculino,TI,Analista,4295,2019-07-19,3,Solteiro,Belo Horizonte,Pós-Graduação
+177,Funcionário 177,42,Masculino,Marketing,Assistente,7685,2016-11-14,6,Casado,Porto Alegre,Ensino Médio
+178,Funcionário 178,56,Feminino,Vendas,Diretor,3696,2012-07-08,10,Viúvo,Curitiba,Pós-Graduação
+179,Funcionário 179,50,Feminino,RH,Analista,13185,2010-04-24,13,Solteiro,Belo Horizonte,Pós-Graduação
+180,Funcionário 180,18,Masculino,Vendas,Assistente,12661,2019-08-06,3,Divorciado,São Paulo,Mestrado
+181,Funcionário 181,44,Feminino,Logística,Diretor,3946,2012-09-18,10,Viúvo,Rio de Janeiro,Ensino Médio
+182,Funcionário 182,30,Feminino,Financeiro,Coordenador,14001,2020-07-06,2,Viúvo,Rio de Janeiro,Ensino Médio
+183,Funcionário 183,58,Feminino,Marketing,Diretor,4783,2013-06-12,9,Divorciado,São Paulo,Pós-Graduação
+184,Funcionário 184,20,Feminino,Marketing,Gerente,5644,2019-05-20,3,Viúvo,Rio de Janeiro,Mestrado
+185,Funcionário 185,56,Feminino,Marketing,Gerente,7241,2011-05-30,11,Casado,Rio de Janeiro,Pós-Graduação
+186,Funcionário 186,23,Masculino,Vendas,Coordenador,8420,2018-10-02,4,Divorciado,São Paulo,Pós-Graduação
+187,Funcionário 187,25,Feminino,Financeiro,Analista,12692,2022-02-21,1,Viúvo,São Paulo,Superior Completo
+188,Funcionário 188,44,Masculino,RH,Assistente,9557,2017-01-28,6,Divorciado,Belo Horizonte,Superior Completo
+189,Funcionário 189,26,Feminino,Logística,Diretor,13837,2010-03-09,13,Divorciado,Belo Horizonte,Mestrado
+190,Funcionário 190,54,Masculino,RH,Gerente,4645,2014-05-16,8,Divorciado,São Paulo,Doutorado
+191,Funcionário 191,50,Feminino,Vendas,Analista,8589,2022-04-06,1,Solteiro,Porto Alegre,Superior Completo
+192,Funcionário 192,59,Masculino,Logística,Coordenador,8353,2010-01-19,13,Viúvo,Rio de Janeiro,Doutorado
+193,Funcionário 193,61,Feminino,Marketing,Gerente,12541,2017-06-23,5,Solteiro,Belo Horizonte,Ensino Médio
+194,Funcionário 194,41,Masculino,TI,Coordenador,3932,2019-08-23,3,Viúvo,Rio de Janeiro,Superior Completo
+195,Funcionário 195,32,Feminino,Vendas,Diretor,13486,2011-07-27,11,Casado,Curitiba,Superior Completo
+196,Funcionário 196,49,Masculino,Vendas,Assistente,3757,2016-03-08,7,Casado,São Paulo,Mestrado
+197,Funcionário 197,49,Feminino,Financeiro,Gerente,7085,2017-12-12,5,Casado,Porto Alegre,Doutorado
+198,Funcionário 198,41,Masculino,RH,Gerente,7637,2011-10-13,11,Viúvo,Curitiba,Superior Completo
+199,Funcionário 199,58,Masculino,Vendas,Diretor,3116,2017-01-31,6,Divorciado,Curitiba,Superior Completo
+200,Funcionário 200,29,Feminino,Vendas,Analista,12759,2018-12-07,4,Divorciado,Curitiba,Mestrado
+201,Funcionário 201,56,Feminino,Marketing,Assistente,13691,2013-08-31,9,Solteiro,São Paulo,Mestrado
+202,Funcionário 202,19,Masculino,Marketing,Gerente,2492,2019-12-14,3,Solteiro,Belo Horizonte,Doutorado
+203,Funcionário 203,20,Feminino,Logística,Assistente,13498,2017-09-28,5,Casado,São Paulo,Ensino Médio
+204,Funcionário 204,54,Masculino,TI,Gerente,10811,2016-01-27,7,Solteiro,Belo Horizonte,Ensino Médio
+205,Funcionário 205,34,Masculino,Financeiro,Assistente,13424,2019-09-10,3,Viúvo,Curitiba,Pós-Graduação
+206,Funcionário 206,19,Masculino,TI,Coordenador,9888,2012-11-03,10,Viúvo,Curitiba,Superior Completo
+207,Funcionário 207,19,Feminino,Logística,Gerente,14015,2022-01-01,1,Solteiro,Porto Alegre,Doutorado
+208,Funcionário 208,45,Masculino,Marketing,Assistente,8474,2020-11-22,2,Solteiro,Belo Horizonte,Superior Completo
+209,Funcionário 209,40,Masculino,RH,Analista,12572,2018-02-09,5,Solteiro,Curitiba,Doutorado
+210,Funcionário 210,54,Feminino,Marketing,Coordenador,11738,2018-11-01,4,Solteiro,Rio de Janeiro,Doutorado
+211,Funcionário 211,49,Feminino,Financeiro,Coordenador,6958,2013-01-03,10,Casado,Porto Alegre,Doutorado
+212,Funcionário 212,50,Feminino,Marketing,Analista,13755,2016-05-13,6,Casado,São Paulo,Superior Completo
+213,Funcionário 213,18,Feminino,Financeiro,Assistente,11797,2012-07-28,10,Solteiro,Porto Alegre,Mestrado
+214,Funcionário 214,36,Masculino,Financeiro,Diretor,13944,2020-03-05,3,Viúvo,Rio de Janeiro,Superior Completo
+215,Funcionário 215,19,Masculino,Financeiro,Analista,14867,2019-05-08,4,Casado,Belo Horizonte,Doutorado
+216,Funcionário 216,61,Masculino,Logística,Assistente,12082,2013-12-19,9,Viúvo,São Paulo,Pós-Graduação
+217,Funcionário 217,43,Masculino,Financeiro,Analista,11467,2011-07-25,11,Divorciado,São Paulo,Ensino Médio
+218,Funcionário 218,49,Feminino,Financeiro,Analista,4743,2017-12-14,5,Viúvo,Belo Horizonte,Doutorado
+219,Funcionário 219,23,Masculino,RH,Gerente,9866,2016-11-10,6,Solteiro,Porto Alegre,Pós-Graduação
+220,Funcionário 220,49,Masculino,TI,Assistente,12685,2012-07-06,10,Divorciado,Curitiba,Mestrado
+221,Funcionário 221,21,Feminino,Vendas,Diretor,9160,2015-02-18,8,Casado,Porto Alegre,Doutorado
+222,Funcionário 222,28,Masculino,TI,Gerente,7451,2014-08-06,8,Casado,Rio de Janeiro,Pós-Graduação
+223,Funcionário 223,34,Masculino,Financeiro,Analista,7258,2011-09-08,11,Divorciado,Curitiba,Doutorado
+224,Funcionário 224,55,Masculino,RH,Analista,10548,2022-04-29,1,Viúvo,Porto Alegre,Superior Completo
+225,Funcionário 225,41,Masculino,Marketing,Analista,9186,2014-10-16,8,Casado,Belo Horizonte,Pós-Graduação
+226,Funcionário 226,22,Masculino,RH,Assistente,8102,2020-06-22,2,Solteiro,Rio de Janeiro,Superior Completo
+227,Funcionário 227,51,Masculino,Financeiro,Assistente,11061,2021-06-20,1,Divorciado,Rio de Janeiro,Superior Completo
+228,Funcionário 228,23,Feminino,RH,Gerente,11077,2016-10-13,6,Solteiro,Rio de Janeiro,Pós-Graduação
+229,Funcionário 229,39,Feminino,RH,Diretor,12193,2019-08-07,3,Divorciado,Curitiba,Ensino Médio
+230,Funcionário 230,28,Masculino,Financeiro,Gerente,11475,2019-07-08,3,Casado,São Paulo,Pós-Graduação
+231,Funcionário 231,33,Masculino,Logística,Coordenador,2619,2022-05-27,0,Viúvo,Curitiba,Ensino Médio
+232,Funcionário 232,50,Feminino,RH,Analista,2882,2013-02-09,10,Divorciado,Porto Alegre,Doutorado
+233,Funcionário 233,26,Masculino,Vendas,Analista,10988,2020-12-14,2,Divorciado,São Paulo,Doutorado
+234,Funcionário 234,23,Masculino,Vendas,Analista,5642,2011-01-10,12,Solteiro,Porto Alegre,Pós-Graduação
+235,Funcionário 235,33,Masculino,RH,Gerente,13617,2010-07-26,12,Casado,São Paulo,Doutorado
+236,Funcionário 236,46,Feminino,Logística,Gerente,3296,2013-08-12,9,Solteiro,Curitiba,Mestrado
+237,Funcionário 237,20,Masculino,Marketing,Analista,14906,2013-02-15,10,Casado,Rio de Janeiro,Superior Completo
+238,Funcionário 238,37,Feminino,Financeiro,Gerente,10436,2022-09-02,0,Solteiro,Belo Horizonte,Superior Completo
+239,Funcionário 239,53,Masculino,Vendas,Assistente,4895,2017-05-14,5,Divorciado,Rio de Janeiro,Ensino Médio
+240,Funcionário 240,36,Feminino,Marketing,Assistente,8593,2018-11-30,4,Solteiro,Curitiba,Doutorado
+241,Funcionário 241,43,Feminino,RH,Gerente,2929,2010-03-31,13,Viúvo,São Paulo,Ensino Médio
+242,Funcionário 242,20,Masculino,Marketing,Analista,7366,2021-04-01,2,Casado,Rio de Janeiro,Superior Completo
+243,Funcionário 243,36,Feminino,TI,Gerente,10711,2018-04-09,5,Casado,Curitiba,Superior Completo
+244,Funcionário 244,37,Masculino,Vendas,Gerente,5212,2015-02-01,8,Divorciado,Porto Alegre,Doutorado
+245,Funcionário 245,49,Feminino,RH,Gerente,4409,2012-03-15,11,Casado,Belo Horizonte,Mestrado
+246,Funcionário 246,24,Masculino,Financeiro,Coordenador,10199,2012-08-02,10,Viúvo,Rio de Janeiro,Mestrado
+247,Funcionário 247,58,Masculino,Logística,Assistente,12717,2017-08-21,5,Solteiro,São Paulo,Doutorado
+248,Funcionário 248,50,Feminino,RH,Diretor,5423,2020-08-11,2,Divorciado,Porto Alegre,Doutorado
+249,Funcionário 249,57,Masculino,Financeiro,Diretor,12211,2014-05-30,8,Viúvo,Curitiba,Ensino Médio
+250,Funcionário 250,56,Masculino,Logística,Coordenador,14782,2018-01-02,5,Casado,Belo Horizonte,Doutorado
+251,Funcionário 251,35,Feminino,Logística,Gerente,8976,2020-08-18,2,Casado,São Paulo,Mestrado
+252,Funcionário 252,57,Masculino,RH,Coordenador,9594,2018-10-27,4,Viúvo,Curitiba,Doutorado
+253,Funcionário 253,18,Masculino,Marketing,Coordenador,7158,2022-01-09,1,Solteiro,Curitiba,Ensino Médio
+254,Funcionário 254,28,Feminino,Marketing,Analista,14474,2022-12-19,0,Solteiro,Rio de Janeiro,Ensino Médio
+255,Funcionário 255,45,Feminino,Logística,Assistente,5667,2016-07-15,6,Divorciado,Rio de Janeiro,Ensino Médio
+256,Funcionário 256,42,Masculino,Marketing,Diretor,13863,2022-12-07,0,Casado,São Paulo,Ensino Médio
+257,Funcionário 257,40,Masculino,TI,Gerente,12993,2012-07-30,10,Viúvo,Curitiba,Pós-Graduação
+258,Funcionário 258,48,Feminino,Logística,Diretor,7973,2017-01-10,6,Solteiro,Rio de Janeiro,Doutorado
+259,Funcionário 259,47,Feminino,Logística,Diretor,8236,2012-09-02,10,Divorciado,Belo Horizonte,Superior Completo
+260,Funcionário 260,59,Masculino,Financeiro,Assistente,10277,2012-08-12,10,Casado,Belo Horizonte,Doutorado
+261,Funcionário 261,52,Feminino,Marketing,Diretor,13307,2013-06-16,9,Casado,Curitiba,Pós-Graduação
+262,Funcionário 262,24,Masculino,Logística,Diretor,14424,2012-08-01,10,Divorciado,Rio de Janeiro,Ensino Médio
+263,Funcionário 263,33,Masculino,TI,Coordenador,4468,2016-01-12,7,Divorciado,São Paulo,Pós-Graduação
+264,Funcionário 264,43,Masculino,Financeiro,Assistente,8217,2019-02-10,4,Solteiro,São Paulo,Mestrado
+265,Funcionário 265,19,Masculino,RH,Analista,5619,2021-09-14,1,Viúvo,São Paulo,Mestrado
+266,Funcionário 266,18,Masculino,Logística,Gerente,3636,2016-03-09,7,Casado,Belo Horizonte,Doutorado
+267,Funcionário 267,29,Feminino,TI,Diretor,10155,2015-01-03,8,Viúvo,Rio de Janeiro,Doutorado
+268,Funcionário 268,22,Feminino,Vendas,Gerente,5583,2013-06-11,9,Casado,Rio de Janeiro,Superior Completo
+269,Funcionário 269,54,Feminino,TI,Analista,6009,2011-04-10,12,Casado,Belo Horizonte,Superior Completo
+270,Funcionário 270,49,Feminino,TI,Gerente,5326,2019-01-08,4,Viúvo,São Paulo,Mestrado
+271,Funcionário 271,26,Masculino,Financeiro,Analista,12410,2013-05-15,9,Divorciado,São Paulo,Ensino Médio
+272,Funcionário 272,58,Masculino,RH,Coordenador,10148,2017-04-08,6,Solteiro,Curitiba,Pós-Graduação
+273,Funcionário 273,52,Masculino,Vendas,Diretor,4217,2012-06-03,10,Casado,Porto Alegre,Superior Completo
+274,Funcionário 274,36,Masculino,Marketing,Analista,6967,2020-06-02,2,Divorciado,Rio de Janeiro,Superior Completo
+275,Funcionário 275,33,Feminino,Marketing,Gerente,4369,2020-07-23,2,Casado,Rio de Janeiro,Ensino Médio
+276,Funcionário 276,20,Masculino,TI,Diretor,5638,2018-08-02,4,Solteiro,Rio de Janeiro,Ensino Médio
+277,Funcionário 277,37,Masculino,Financeiro,Coordenador,12695,2012-07-13,10,Casado,Porto Alegre,Doutorado
+278,Funcionário 278,41,Feminino,Financeiro,Diretor,11135,2022-07-26,0,Solteiro,Curitiba,Pós-Graduação
+279,Funcionário 279,50,Feminino,Marketing,Analista,7722,2014-03-27,9,Solteiro,Porto Alegre,Ensino Médio
+280,Funcionário 280,41,Feminino,Vendas,Coordenador,13029,2012-12-30,10,Casado,São Paulo,Superior Completo
+281,Funcionário 281,28,Feminino,RH,Gerente,12852,2016-08-08,6,Casado,São Paulo,Superior Completo
+282,Funcionário 282,25,Masculino,Vendas,Coordenador,13128,2017-03-02,6,Solteiro,Rio de Janeiro,Mestrado
+283,Funcionário 283,53,Masculino,Logística,Coordenador,6444,2012-02-02,11,Divorciado,Belo Horizonte,Ensino Médio
+284,Funcionário 284,55,Feminino,Logística,Assistente,9618,2016-05-12,6,Viúvo,Rio de Janeiro,Doutorado
+285,Funcionário 285,57,Masculino,RH,Coordenador,5947,2021-05-08,2,Solteiro,Belo Horizonte,Pós-Graduação
+286,Funcionário 286,37,Masculino,Marketing,Coordenador,3676,2017-08-07,5,Casado,Porto Alegre,Doutorado
+287,Funcionário 287,52,Masculino,RH,Diretor,3196,2022-10-04,0,Casado,São Paulo,Superior Completo
+288,Funcionário 288,42,Feminino,Financeiro,Gerente,14297,2018-08-22,4,Divorciado,Belo Horizonte,Doutorado
+289,Funcionário 289,52,Masculino,Logística,Diretor,4787,2020-11-14,2,Viúvo,Porto Alegre,Superior Completo
+290,Funcionário 290,42,Feminino,TI,Diretor,9432,2015-08-03,7,Solteiro,São Paulo,Superior Completo
+291,Funcionário 291,46,Masculino,TI,Analista,11653,2011-08-07,11,Solteiro,Belo Horizonte,Superior Completo
+292,Funcionário 292,35,Masculino,Marketing,Diretor,9927,2021-11-10,1,Viúvo,Rio de Janeiro,Superior Completo
+293,Funcionário 293,63,Masculino,Financeiro,Assistente,5318,2015-10-05,7,Solteiro,Rio de Janeiro,Superior Completo
+294,Funcionário 294,35,Feminino,Vendas,Assistente,10858,2015-04-27,8,Viúvo,Rio de Janeiro,Mestrado
+295,Funcionário 295,19,Masculino,Financeiro,Analista,8689,2022-03-14,1,Casado,Porto Alegre,Doutorado
+296,Funcionário 296,52,Feminino,TI,Gerente,4176,2010-04-20,13,Viúvo,Rio de Janeiro,Mestrado
+297,Funcionário 297,33,Feminino,TI,Gerente,5743,2010-07-11,12,Solteiro,Curitiba,Mestrado
+298,Funcionário 298,58,Feminino,Logística,Diretor,10792,2012-06-22,10,Viúvo,São Paulo,Ensino Médio
+299,Funcionário 299,53,Masculino,Financeiro,Diretor,12844,2012-05-11,10,Divorciado,Porto Alegre,Ensino Médio
+300,Funcionário 300,50,Masculino,Financeiro,Diretor,6422,2012-12-19,10,Casado,Rio de Janeiro,Ensino Médio
+301,Funcionário 301,21,Masculino,TI,Gerente,5824,2011-10-12,11,Casado,São Paulo,Pós-Graduação
+302,Funcionário 302,50,Masculino,Vendas,Coordenador,14098,2021-04-27,2,Viúvo,Belo Horizonte,Ensino Médio
+303,Funcionário 303,31,Feminino,Marketing,Assistente,11171,2019-11-21,3,Solteiro,Rio de Janeiro,Doutorado
+304,Funcionário 304,38,Feminino,Marketing,Coordenador,4451,2011-09-29,11,Divorciado,São Paulo,Mestrado
+305,Funcionário 305,37,Feminino,Financeiro,Coordenador,2628,2012-11-02,10,Casado,Curitiba,Doutorado
+306,Funcionário 306,25,Masculino,Marketing,Gerente,11821,2021-04-24,2,Casado,Belo Horizonte,Ensino Médio
+307,Funcionário 307,24,Feminino,TI,Coordenador,9778,2015-11-19,7,Solteiro,Curitiba,Pós-Graduação
+308,Funcionário 308,20,Masculino,TI,Analista,5696,2020-08-01,2,Solteiro,São Paulo,Pós-Graduação
+309,Funcionário 309,34,Feminino,Financeiro,Diretor,13622,2018-08-24,4,Divorciado,Curitiba,Mestrado
+310,Funcionário 310,50,Masculino,Financeiro,Analista,5674,2019-10-28,3,Viúvo,São Paulo,Doutorado
+311,Funcionário 311,29,Masculino,Logística,Assistente,5929,2019-01-08,4,Solteiro,São Paulo,Superior Completo
+312,Funcionário 312,39,Feminino,Financeiro,Diretor,4765,2021-09-01,1,Viúvo,Curitiba,Doutorado
+313,Funcionário 313,39,Feminino,Vendas,Coordenador,6369,2016-08-27,6,Divorciado,São Paulo,Ensino Médio
+314,Funcionário 314,63,Feminino,Marketing,Assistente,14972,2015-02-23,8,Viúvo,Rio de Janeiro,Superior Completo
+315,Funcionário 315,47,Feminino,Financeiro,Diretor,10307,2020-11-10,2,Casado,São Paulo,Pós-Graduação
+316,Funcionário 316,55,Masculino,RH,Coordenador,6956,2020-03-02,3,Viúvo,Porto Alegre,Mestrado
+317,Funcionário 317,55,Feminino,Logística,Analista,12195,2021-04-19,2,Divorciado,São Paulo,Mestrado
+318,Funcionário 318,62,Feminino,RH,Diretor,2692,2021-03-30,2,Divorciado,Porto Alegre,Pós-Graduação
+319,Funcionário 319,25,Feminino,TI,Coordenador,5162,2015-07-05,7,Divorciado,São Paulo,Ensino Médio
+320,Funcionário 320,44,Masculino,Marketing,Analista,3105,2019-03-28,4,Viúvo,São Paulo,Pós-Graduação
+321,Funcionário 321,44,Masculino,Financeiro,Assistente,5008,2015-11-14,7,Casado,Curitiba,Ensino Médio
+322,Funcionário 322,51,Feminino,RH,Assistente,4161,2016-11-05,6,Solteiro,Rio de Janeiro,Superior Completo
+323,Funcionário 323,38,Masculino,Marketing,Assistente,10345,2022-07-18,0,Casado,Rio de Janeiro,Pós-Graduação
+324,Funcionário 324,47,Feminino,TI,Assistente,5699,2013-07-13,9,Viúvo,Belo Horizonte,Ensino Médio
+325,Funcionário 325,50,Masculino,Vendas,Gerente,14602,2013-12-18,9,Viúvo,Curitiba,Superior Completo
+326,Funcionário 326,45,Masculino,Logística,Diretor,5786,2018-10-05,4,Solteiro,Curitiba,Pós-Graduação
+327,Funcionário 327,64,Masculino,Marketing,Diretor,11256,2015-04-28,8,Viúvo,Rio de Janeiro,Mestrado
+328,Funcionário 328,50,Masculino,Marketing,Gerente,6200,2018-09-19,4,Divorciado,Curitiba,Pós-Graduação
+329,Funcionário 329,22,Feminino,Vendas,Coordenador,3913,2018-10-22,4,Divorciado,Rio de Janeiro,Doutorado
+330,Funcionário 330,36,Feminino,Marketing,Coordenador,11408,2018-08-03,4,Divorciado,Curitiba,Pós-Graduação
+331,Funcionário 331,21,Feminino,TI,Assistente,7520,2019-02-01,4,Divorciado,São Paulo,Doutorado
+332,Funcionário 332,52,Masculino,TI,Analista,12593,2017-08-14,5,Divorciado,Rio de Janeiro,Superior Completo
+333,Funcionário 333,34,Feminino,Vendas,Coordenador,3772,2012-09-17,10,Viúvo,Rio de Janeiro,Pós-Graduação
+334,Funcionário 334,61,Feminino,Logística,Analista,12152,2015-11-24,7,Solteiro,Porto Alegre,Superior Completo
+335,Funcionário 335,45,Feminino,Financeiro,Diretor,4780,2010-08-14,12,Solteiro,Curitiba,Superior Completo
+336,Funcionário 336,47,Masculino,RH,Analista,14996,2012-02-16,11,Divorciado,Curitiba,Ensino Médio
+337,Funcionário 337,46,Masculino,Financeiro,Diretor,9423,2017-10-08,5,Viúvo,Rio de Janeiro,Superior Completo
+338,Funcionário 338,63,Masculino,Marketing,Gerente,14938,2011-11-19,11,Casado,São Paulo,Superior Completo
+339,Funcionário 339,23,Feminino,RH,Gerente,4871,2011-06-14,11,Casado,São Paulo,Pós-Graduação
+340,Funcionário 340,52,Feminino,Vendas,Assistente,2660,2019-06-05,3,Viúvo,São Paulo,Pós-Graduação
+341,Funcionário 341,58,Feminino,Vendas,Coordenador,8242,2015-11-24,7,Divorciado,Curitiba,Mestrado
+342,Funcionário 342,54,Masculino,Logística,Assistente,12827,2013-07-18,9,Solteiro,Porto Alegre,Ensino Médio
+343,Funcionário 343,41,Masculino,RH,Diretor,12521,2014-03-07,9,Viúvo,Rio de Janeiro,Superior Completo
+344,Funcionário 344,46,Feminino,TI,Assistente,14146,2017-12-06,5,Casado,Belo Horizonte,Ensino Médio
+345,Funcionário 345,63,Masculino,RH,Analista,12642,2018-07-01,4,Casado,Porto Alegre,Doutorado
+346,Funcionário 346,48,Masculino,Marketing,Diretor,3132,2016-09-06,6,Casado,Belo Horizonte,Superior Completo
+347,Funcionário 347,52,Masculino,TI,Gerente,2699,2021-04-28,2,Divorciado,Porto Alegre,Ensino Médio
+348,Funcionário 348,50,Masculino,Vendas,Coordenador,9470,2020-05-30,2,Casado,São Paulo,Mestrado
+349,Funcionário 349,38,Feminino,RH,Diretor,12230,2012-04-24,11,Viúvo,Curitiba,Mestrado
+350,Funcionário 350,49,Masculino,Financeiro,Diretor,8297,2011-03-23,12,Viúvo,Belo Horizonte,Superior Completo
+351,Funcionário 351,40,Masculino,Logística,Analista,14839,2020-09-20,2,Casado,Porto Alegre,Doutorado
+352,Funcionário 352,50,Masculino,Financeiro,Coordenador,9812,2018-07-07,4,Viúvo,Curitiba,Mestrado
+353,Funcionário 353,20,Masculino,Logística,Gerente,14692,2013-05-19,9,Casado,Belo Horizonte,Mestrado
+354,Funcionário 354,35,Feminino,Marketing,Diretor,6557,2010-08-15,12,Casado,Rio de Janeiro,Doutorado
+355,Funcionário 355,42,Feminino,Financeiro,Diretor,4179,2021-05-06,2,Solteiro,Porto Alegre,Ensino Médio
+356,Funcionário 356,59,Masculino,RH,Analista,13030,2018-02-07,5,Divorciado,Rio de Janeiro,Mestrado
+357,Funcionário 357,48,Masculino,RH,Assistente,11065,2015-01-05,8,Divorciado,São Paulo,Pós-Graduação
+358,Funcionário 358,20,Masculino,Financeiro,Gerente,10275,2020-05-07,3,Solteiro,Rio de Janeiro,Mestrado
+359,Funcionário 359,57,Masculino,RH,Coordenador,3422,2010-07-06,12,Solteiro,Rio de Janeiro,Ensino Médio
+360,Funcionário 360,63,Masculino,Marketing,Diretor,12867,2017-11-17,5,Divorciado,Porto Alegre,Ensino Médio
+361,Funcionário 361,41,Masculino,TI,Diretor,5180,2016-12-10,6,Casado,São Paulo,Superior Completo
+362,Funcionário 362,49,Feminino,Marketing,Gerente,6316,2015-04-17,8,Casado,Rio de Janeiro,Pós-Graduação
+363,Funcionário 363,64,Masculino,Logística,Assistente,14167,2018-01-03,5,Divorciado,Curitiba,Ensino Médio
+364,Funcionário 364,39,Feminino,Marketing,Diretor,8696,2012-04-28,11,Casado,Belo Horizonte,Doutorado
+365,Funcionário 365,40,Feminino,Logística,Gerente,11583,2015-07-26,7,Solteiro,Rio de Janeiro,Pós-Graduação
+366,Funcionário 366,19,Masculino,RH,Analista,13410,2013-06-06,9,Casado,São Paulo,Pós-Graduação
+367,Funcionário 367,44,Feminino,TI,Assistente,14399,2015-02-25,8,Casado,Rio de Janeiro,Doutorado
+368,Funcionário 368,59,Feminino,RH,Coordenador,2614,2010-09-27,12,Viúvo,Belo Horizonte,Mestrado
+369,Funcionário 369,19,Feminino,Vendas,Diretor,13163,2014-06-19,8,Viúvo,São Paulo,Doutorado
+370,Funcionário 370,43,Feminino,RH,Gerente,13757,2022-01-23,1,Viúvo,Porto Alegre,Doutorado
+371,Funcionário 371,34,Feminino,Logística,Analista,13768,2018-10-09,4,Casado,São Paulo,Mestrado
+372,Funcionário 372,57,Feminino,RH,Coordenador,6570,2014-04-24,9,Divorciado,Porto Alegre,Mestrado
+373,Funcionário 373,50,Masculino,RH,Gerente,2270,2017-12-02,5,Solteiro,São Paulo,Mestrado
+374,Funcionário 374,26,Feminino,TI,Gerente,14258,2014-08-23,8,Casado,Belo Horizonte,Mestrado
+375,Funcionário 375,60,Feminino,RH,Coordenador,4468,2018-12-03,4,Divorciado,Belo Horizonte,Mestrado
+376,Funcionário 376,56,Feminino,TI,Analista,11582,2018-12-07,4,Casado,São Paulo,Doutorado
+377,Funcionário 377,46,Masculino,Financeiro,Analista,13546,2013-12-16,9,Solteiro,Rio de Janeiro,Superior Completo
+378,Funcionário 378,59,Feminino,Vendas,Assistente,14327,2010-08-08,12,Casado,Belo Horizonte,Superior Completo
+379,Funcionário 379,43,Masculino,TI,Diretor,5607,2010-02-22,13,Solteiro,Porto Alegre,Ensino Médio
+380,Funcionário 380,52,Feminino,Logística,Coordenador,12775,2014-10-24,8,Casado,Porto Alegre,Superior Completo
+381,Funcionário 381,42,Masculino,Financeiro,Coordenador,14265,2014-07-25,8,Solteiro,Curitiba,Superior Completo
+382,Funcionário 382,41,Masculino,TI,Coordenador,5075,2017-08-17,5,Casado,Porto Alegre,Doutorado
+383,Funcionário 383,30,Feminino,TI,Analista,14098,2011-12-21,11,Solteiro,Curitiba,Mestrado
+384,Funcionário 384,24,Feminino,Vendas,Diretor,2289,2011-02-10,12,Viúvo,São Paulo,Mestrado
+385,Funcionário 385,53,Masculino,Logística,Assistente,10120,2016-04-13,7,Casado,São Paulo,Doutorado
+386,Funcionário 386,62,Feminino,Marketing,Gerente,12672,2010-03-13,13,Casado,São Paulo,Superior Completo
+387,Funcionário 387,37,Masculino,Marketing,Gerente,8614,2015-08-16,7,Divorciado,Rio de Janeiro,Doutorado
+388,Funcionário 388,18,Masculino,TI,Coordenador,5252,2013-05-14,9,Divorciado,Rio de Janeiro,Ensino Médio
+389,Funcionário 389,25,Masculino,RH,Diretor,9415,2014-04-17,9,Solteiro,Curitiba,Mestrado
+390,Funcionário 390,63,Masculino,Logística,Analista,8771,2020-01-31,3,Casado,Porto Alegre,Pós-Graduação
+391,Funcionário 391,33,Masculino,Financeiro,Diretor,2278,2018-02-01,5,Solteiro,Porto Alegre,Ensino Médio
+392,Funcionário 392,31,Feminino,RH,Diretor,13116,2022-04-10,1,Viúvo,São Paulo,Ensino Médio
+393,Funcionário 393,29,Masculino,RH,Analista,2580,2011-11-30,11,Divorciado,Belo Horizonte,Doutorado
+394,Funcionário 394,40,Masculino,Logística,Coordenador,6958,2012-04-06,11,Solteiro,Rio de Janeiro,Superior Completo
+395,Funcionário 395,32,Feminino,TI,Diretor,10445,2010-12-15,12,Solteiro,Rio de Janeiro,Mestrado
+396,Funcionário 396,45,Masculino,TI,Gerente,6276,2020-09-13,2,Divorciado,São Paulo,Pós-Graduação
+397,Funcionário 397,51,Feminino,TI,Analista,9997,2010-11-04,12,Casado,Rio de Janeiro,Ensino Médio
+398,Funcionário 398,19,Feminino,TI,Assistente,6776,2019-05-10,3,Solteiro,São Paulo,Pós-Graduação
+399,Funcionário 399,49,Feminino,Marketing,Coordenador,2824,2016-05-23,6,Divorciado,Curitiba,Superior Completo
+400,Funcionário 400,40,Masculino,TI,Analista,5832,2017-09-10,5,Casado,Porto Alegre,Superior Completo
+401,Funcionário 401,39,Masculino,Marketing,Assistente,10891,2019-09-29,3,Viúvo,Belo Horizonte,Pós-Graduação
+402,Funcionário 402,42,Masculino,Marketing,Assistente,7445,2022-04-06,1,Divorciado,Porto Alegre,Mestrado
+403,Funcionário 403,39,Feminino,TI,Diretor,3380,2019-07-10,3,Solteiro,Porto Alegre,Superior Completo
+404,Funcionário 404,39,Masculino,Vendas,Diretor,14088,2022-08-26,0,Viúvo,Curitiba,Pós-Graduação
+405,Funcionário 405,59,Feminino,Financeiro,Diretor,11865,2017-05-10,5,Casado,Rio de Janeiro,Ensino Médio
+406,Funcionário 406,23,Masculino,RH,Analista,12919,2018-03-05,5,Casado,Belo Horizonte,Pós-Graduação
+407,Funcionário 407,32,Feminino,Marketing,Analista,8534,2010-10-03,12,Divorciado,Rio de Janeiro,Pós-Graduação
+408,Funcionário 408,60,Masculino,Logística,Coordenador,5156,2016-12-22,6,Divorciado,Porto Alegre,Doutorado
+409,Funcionário 409,54,Masculino,Logística,Diretor,13580,2017-07-27,5,Divorciado,São Paulo,Superior Completo
+410,Funcionário 410,50,Masculino,Financeiro,Assistente,6307,2010-12-03,12,Casado,Porto Alegre,Mestrado
+411,Funcionário 411,25,Feminino,Logística,Gerente,7634,2015-05-28,7,Viúvo,Rio de Janeiro,Mestrado
+412,Funcionário 412,61,Feminino,Vendas,Coordenador,10575,2018-02-27,5,Casado,Porto Alegre,Doutorado
+413,Funcionário 413,61,Masculino,Logística,Analista,7810,2022-07-13,0,Solteiro,São Paulo,Mestrado
+414,Funcionário 414,22,Masculino,RH,Coordenador,10533,2020-11-12,2,Casado,Curitiba,Pós-Graduação
+415,Funcionário 415,56,Feminino,RH,Coordenador,7934,2012-06-29,10,Solteiro,Rio de Janeiro,Doutorado
+416,Funcionário 416,21,Feminino,Marketing,Coordenador,12179,2015-06-20,7,Viúvo,Porto Alegre,Ensino Médio
+417,Funcionário 417,23,Feminino,TI,Coordenador,14251,2018-07-27,4,Divorciado,Rio de Janeiro,Superior Completo
+418,Funcionário 418,62,Masculino,Vendas,Gerente,5109,2021-07-06,1,Divorciado,Curitiba,Superior Completo
+419,Funcionário 419,49,Feminino,Marketing,Diretor,6082,2020-04-15,3,Casado,Porto Alegre,Superior Completo
+420,Funcionário 420,47,Masculino,Vendas,Assistente,14707,2010-11-24,12,Divorciado,Porto Alegre,Pós-Graduação
+421,Funcionário 421,64,Feminino,TI,Coordenador,12990,2014-12-05,8,Viúvo,Rio de Janeiro,Ensino Médio
+422,Funcionário 422,52,Masculino,Logística,Coordenador,5240,2010-11-11,12,Divorciado,Rio de Janeiro,Doutorado
+423,Funcionário 423,57,Feminino,Logística,Coordenador,12180,2019-09-16,3,Casado,São Paulo,Doutorado
+424,Funcionário 424,33,Feminino,TI,Diretor,8028,2013-02-08,10,Viúvo,Curitiba,Superior Completo
+425,Funcionário 425,30,Feminino,Marketing,Analista,13606,2017-07-09,5,Solteiro,São Paulo,Ensino Médio
+426,Funcionário 426,59,Feminino,TI,Analista,3849,2014-03-01,9,Casado,Porto Alegre,Ensino Médio
+427,Funcionário 427,47,Feminino,Financeiro,Gerente,10497,2010-06-05,12,Solteiro,Rio de Janeiro,Ensino Médio
+428,Funcionário 428,36,Masculino,RH,Analista,13805,2014-09-21,8,Viúvo,Porto Alegre,Mestrado
+429,Funcionário 429,34,Feminino,Marketing,Coordenador,4749,2019-02-26,4,Casado,Porto Alegre,Mestrado
+430,Funcionário 430,36,Feminino,Vendas,Coordenador,8680,2012-06-05,10,Casado,Belo Horizonte,Superior Completo
+431,Funcionário 431,45,Feminino,Financeiro,Coordenador,11327,2018-06-01,4,Viúvo,Belo Horizonte,Ensino Médio
+432,Funcionário 432,43,Masculino,Marketing,Gerente,2205,2017-09-06,5,Divorciado,Porto Alegre,Ensino Médio
+433,Funcionário 433,54,Feminino,TI,Coordenador,9352,2011-12-23,11,Casado,Rio de Janeiro,Doutorado
+434,Funcionário 434,43,Masculino,TI,Analista,6591,2012-07-01,10,Casado,Porto Alegre,Doutorado
+435,Funcionário 435,40,Feminino,TI,Diretor,5450,2019-03-12,4,Solteiro,Belo Horizonte,Superior Completo
+436,Funcionário 436,26,Feminino,TI,Diretor,9214,2012-05-20,10,Divorciado,Rio de Janeiro,Ensino Médio
+437,Funcionário 437,29,Masculino,Vendas,Assistente,5811,2021-04-01,2,Solteiro,Porto Alegre,Superior Completo
+438,Funcionário 438,18,Feminino,Financeiro,Analista,13814,2011-05-13,11,Solteiro,Curitiba,Doutorado
+439,Funcionário 439,18,Masculino,Logística,Coordenador,13791,2014-10-23,8,Divorciado,Curitiba,Doutorado
+440,Funcionário 440,64,Masculino,RH,Diretor,12743,2013-01-22,10,Divorciado,Porto Alegre,Mestrado
+441,Funcionário 441,51,Feminino,Vendas,Analista,7141,2019-05-03,4,Viúvo,Rio de Janeiro,Superior Completo
+442,Funcionário 442,49,Masculino,Vendas,Diretor,14500,2017-09-29,5,Divorciado,Porto Alegre,Superior Completo
+443,Funcionário 443,42,Feminino,Logística,Coordenador,10501,2014-07-06,8,Casado,Porto Alegre,Ensino Médio
+444,Funcionário 444,57,Feminino,Logística,Diretor,4708,2018-03-03,5,Divorciado,Belo Horizonte,Ensino Médio
+445,Funcionário 445,62,Masculino,RH,Assistente,3991,2010-05-23,12,Viúvo,Curitiba,Mestrado
+446,Funcionário 446,18,Masculino,RH,Assistente,10463,2017-07-24,5,Viúvo,Belo Horizonte,Pós-Graduação
+447,Funcionário 447,33,Masculino,Logística,Diretor,13834,2019-05-29,3,Viúvo,Belo Horizonte,Pós-Graduação
+448,Funcionário 448,56,Masculino,TI,Analista,14278,2022-10-05,0,Divorciado,Porto Alegre,Pós-Graduação
+449,Funcionário 449,22,Feminino,Vendas,Analista,12014,2016-08-28,6,Divorciado,Belo Horizonte,Superior Completo
+450,Funcionário 450,39,Feminino,Marketing,Analista,5273,2022-05-10,0,Solteiro,Curitiba,Superior Completo
+451,Funcionário 451,46,Masculino,RH,Diretor,6538,2015-01-23,8,Solteiro,Belo Horizonte,Doutorado
+452,Funcionário 452,20,Feminino,RH,Analista,14541,2017-05-20,5,Casado,Curitiba,Superior Completo
+453,Funcionário 453,29,Feminino,Logística,Coordenador,10712,2014-09-14,8,Solteiro,Belo Horizonte,Superior Completo
+454,Funcionário 454,43,Feminino,Financeiro,Assistente,11168,2018-05-31,4,Casado,Curitiba,Superior Completo
+455,Funcionário 455,33,Feminino,Marketing,Coordenador,5722,2012-12-03,10,Viúvo,Belo Horizonte,Mestrado
+456,Funcionário 456,54,Masculino,Marketing,Analista,5551,2017-08-18,5,Solteiro,Belo Horizonte,Superior Completo
+457,Funcionário 457,39,Masculino,RH,Coordenador,14297,2020-05-19,2,Divorciado,Rio de Janeiro,Ensino Médio
+458,Funcionário 458,46,Feminino,TI,Analista,12965,2013-07-12,9,Solteiro,Curitiba,Ensino Médio
+459,Funcionário 459,31,Masculino,Financeiro,Diretor,12744,2020-08-07,2,Casado,Curitiba,Doutorado
+460,Funcionário 460,45,Masculino,Marketing,Coordenador,4832,2014-12-12,8,Solteiro,Curitiba,Mestrado
+461,Funcionário 461,22,Masculino,RH,Diretor,14099,2014-02-13,9,Viúvo,São Paulo,Ensino Médio
+462,Funcionário 462,64,Feminino,Marketing,Diretor,7679,2019-01-22,4,Divorciado,Belo Horizonte,Mestrado
+463,Funcionário 463,47,Feminino,Financeiro,Gerente,8579,2018-01-30,5,Casado,Curitiba,Mestrado
+464,Funcionário 464,63,Feminino,Financeiro,Analista,2152,2010-03-13,13,Divorciado,São Paulo,Doutorado
+465,Funcionário 465,22,Masculino,Vendas,Assistente,7754,2014-08-18,8,Divorciado,Rio de Janeiro,Mestrado
+466,Funcionário 466,29,Feminino,Logística,Analista,13156,2013-09-06,9,Casado,Curitiba,Superior Completo
+467,Funcionário 467,33,Feminino,Logística,Assistente,13108,2019-01-17,4,Divorciado,Curitiba,Mestrado
+468,Funcionário 468,43,Masculino,RH,Analista,4800,2018-07-11,4,Divorciado,São Paulo,Doutorado
+469,Funcionário 469,43,Feminino,Financeiro,Diretor,7310,2012-06-01,10,Solteiro,Belo Horizonte,Doutorado
+470,Funcionário 470,38,Feminino,Vendas,Coordenador,11944,2021-08-05,1,Divorciado,Rio de Janeiro,Doutorado
+471,Funcionário 471,56,Masculino,Vendas,Coordenador,4610,2017-04-16,6,Divorciado,Curitiba,Ensino Médio
+472,Funcionário 472,53,Masculino,Marketing,Gerente,14067,2014-02-13,9,Divorciado,Belo Horizonte,Superior Completo
+473,Funcionário 473,50,Masculino,Marketing,Assistente,3104,2016-09-29,6,Divorciado,Rio de Janeiro,Ensino Médio
+474,Funcionário 474,47,Feminino,Vendas,Assistente,12728,2016-12-28,6,Casado,Porto Alegre,Pós-Graduação
+475,Funcionário 475,54,Feminino,Marketing,Assistente,9361,2012-01-03,11,Viúvo,Porto Alegre,Superior Completo
+476,Funcionário 476,40,Feminino,Financeiro,Diretor,6199,2014-10-15,8,Solteiro,Rio de Janeiro,Mestrado
+477,Funcionário 477,27,Masculino,TI,Assistente,5854,2020-09-29,2,Divorciado,São Paulo,Doutorado
+478,Funcionário 478,22,Masculino,Financeiro,Coordenador,9263,2011-02-28,12,Divorciado,Rio de Janeiro,Pós-Graduação
+479,Funcionário 479,53,Feminino,Vendas,Diretor,13686,2019-07-11,3,Casado,Rio de Janeiro,Superior Completo
+480,Funcionário 480,51,Feminino,Vendas,Analista,3914,2014-05-11,8,Viúvo,São Paulo,Ensino Médio
+481,Funcionário 481,48,Masculino,Financeiro,Assistente,9365,2022-04-13,1,Divorciado,São Paulo,Doutorado
+482,Funcionário 482,27,Masculino,Marketing,Assistente,5072,2022-02-24,1,Casado,Belo Horizonte,Ensino Médio
+483,Funcionário 483,36,Masculino,Marketing,Analista,11198,2022-11-23,0,Solteiro,Belo Horizonte,Superior Completo
+484,Funcionário 484,49,Masculino,Logística,Assistente,2406,2011-05-08,12,Solteiro,São Paulo,Superior Completo
+485,Funcionário 485,18,Feminino,Vendas,Analista,2166,2010-07-11,12,Divorciado,Porto Alegre,Pós-Graduação
+486,Funcionário 486,22,Masculino,RH,Diretor,2508,2011-05-14,11,Divorciado,Porto Alegre,Mestrado
+487,Funcionário 487,62,Feminino,Logística,Coordenador,3661,2013-06-10,9,Viúvo,Rio de Janeiro,Ensino Médio
+488,Funcionário 488,21,Feminino,Marketing,Analista,5664,2015-05-23,7,Viúvo,Curitiba,Pós-Graduação
+489,Funcionário 489,33,Feminino,Financeiro,Gerente,5489,2021-11-01,1,Divorciado,Rio de Janeiro,Doutorado
+490,Funcionário 490,41,Masculino,Marketing,Analista,2680,2015-12-27,7,Casado,Rio de Janeiro,Mestrado
+491,Funcionário 491,33,Masculino,Financeiro,Assistente,4524,2012-03-27,11,Viúvo,Curitiba,Pós-Graduação
+492,Funcionário 492,19,Masculino,Logística,Diretor,4120,2018-10-26,4,Divorciado,São Paulo,Ensino Médio
+493,Funcionário 493,45,Masculino,Vendas,Diretor,7260,2014-01-13,9,Viúvo,Porto Alegre,Superior Completo
+494,Funcionário 494,49,Feminino,Marketing,Analista,14869,2012-12-22,10,Divorciado,Rio de Janeiro,Doutorado
+495,Funcionário 495,44,Masculino,Financeiro,Coordenador,6357,2021-07-01,1,Solteiro,Curitiba,Ensino Médio
+496,Funcionário 496,37,Masculino,Vendas,Gerente,3363,2015-02-18,8,Divorciado,Belo Horizonte,Mestrado
+497,Funcionário 497,41,Feminino,RH,Diretor,11523,2012-05-20,10,Solteiro,Rio de Janeiro,Mestrado
+498,Funcionário 498,29,Masculino,Financeiro,Assistente,4292,2015-08-05,7,Viúvo,Porto Alegre,Superior Completo
+499,Funcionário 499,52,Feminino,Logística,Assistente,3538,2010-09-30,12,Divorciado,São Paulo,Superior Completo
+500,Funcionário 500,50,Feminino,RH,Coordenador,5408,2012-10-26,10,Viúvo,Rio de Janeiro,Doutorado
+501,Funcionário 501,50,Feminino,RH,Diretor,9742,2018-10-24,4,Solteiro,Rio de Janeiro,Doutorado
+502,Funcionário 502,60,Feminino,TI,Analista,10752,2021-02-21,2,Divorciado,Curitiba,Superior Completo
+503,Funcionário 503,54,Feminino,Marketing,Assistente,11291,2012-11-17,10,Viúvo,Belo Horizonte,Superior Completo
+504,Funcionário 504,29,Feminino,Financeiro,Coordenador,3903,2021-01-16,2,Solteiro,Belo Horizonte,Mestrado
+505,Funcionário 505,20,Feminino,RH,Diretor,2174,2014-04-23,9,Viúvo,São Paulo,Superior Completo
+506,Funcionário 506,18,Feminino,TI,Diretor,12348,2018-09-26,4,Casado,Porto Alegre,Pós-Graduação
+507,Funcionário 507,50,Masculino,Logística,Diretor,4230,2022-01-06,1,Solteiro,São Paulo,Ensino Médio
+508,Funcionário 508,57,Masculino,Vendas,Diretor,6287,2020-05-25,2,Solteiro,Rio de Janeiro,Superior Completo
+509,Funcionário 509,27,Masculino,Financeiro,Diretor,6160,2019-01-03,4,Solteiro,Rio de Janeiro,Doutorado
+510,Funcionário 510,60,Masculino,RH,Assistente,14112,2020-04-05,3,Divorciado,Belo Horizonte,Pós-Graduação
+511,Funcionário 511,61,Feminino,Marketing,Coordenador,9106,2015-10-07,7,Divorciado,Porto Alegre,Doutorado
+512,Funcionário 512,46,Masculino,TI,Diretor,11689,2010-11-04,12,Divorciado,Curitiba,Pós-Graduação
+513,Funcionário 513,30,Feminino,RH,Gerente,14046,2019-03-14,4,Casado,Porto Alegre,Superior Completo
+514,Funcionário 514,29,Masculino,Marketing,Gerente,5171,2018-09-12,4,Casado,Rio de Janeiro,Ensino Médio
+515,Funcionário 515,48,Masculino,RH,Coordenador,3567,2013-06-05,9,Solteiro,Curitiba,Doutorado
+516,Funcionário 516,63,Masculino,Financeiro,Analista,3151,2017-07-10,5,Casado,Porto Alegre,Pós-Graduação
+517,Funcionário 517,19,Feminino,Financeiro,Analista,9619,2014-02-26,9,Viúvo,Porto Alegre,Mestrado
+518,Funcionário 518,52,Masculino,Financeiro,Analista,8033,2013-10-10,9,Solteiro,Curitiba,Superior Completo
+519,Funcionário 519,40,Feminino,Logística,Gerente,10560,2015-05-16,7,Solteiro,Rio de Janeiro,Ensino Médio
+520,Funcionário 520,34,Feminino,Logística,Analista,6946,2021-10-15,1,Viúvo,Porto Alegre,Superior Completo
+521,Funcionário 521,43,Masculino,TI,Assistente,10234,2017-11-03,5,Solteiro,Curitiba,Mestrado
+522,Funcionário 522,25,Masculino,Financeiro,Diretor,3907,2017-04-10,6,Casado,Rio de Janeiro,Ensino Médio
+523,Funcionário 523,46,Masculino,Marketing,Gerente,5490,2016-10-30,6,Divorciado,Curitiba,Mestrado
+524,Funcionário 524,43,Feminino,RH,Coordenador,4535,2022-07-04,0,Viúvo,Curitiba,Superior Completo
+525,Funcionário 525,27,Masculino,Vendas,Coordenador,6173,2020-12-19,2,Casado,Porto Alegre,Pós-Graduação
+526,Funcionário 526,43,Feminino,Marketing,Diretor,13065,2019-10-04,3,Viúvo,Rio de Janeiro,Superior Completo
+527,Funcionário 527,51,Feminino,Logística,Gerente,12016,2012-07-11,10,Viúvo,Porto Alegre,Superior Completo
+528,Funcionário 528,58,Masculino,Logística,Analista,3293,2021-08-03,1,Solteiro,São Paulo,Superior Completo
+529,Funcionário 529,24,Masculino,Marketing,Analista,6769,2022-03-21,1,Solteiro,São Paulo,Doutorado
+530,Funcionário 530,21,Feminino,Logística,Assistente,6796,2018-02-07,5,Casado,Rio de Janeiro,Mestrado
+531,Funcionário 531,62,Feminino,Financeiro,Assistente,8871,2010-07-03,12,Viúvo,Curitiba,Mestrado
+532,Funcionário 532,28,Feminino,TI,Analista,13578,2019-03-13,4,Solteiro,Porto Alegre,Mestrado
+533,Funcionário 533,46,Masculino,RH,Coordenador,4972,2013-10-30,9,Solteiro,Porto Alegre,Doutorado
+534,Funcionário 534,53,Feminino,TI,Coordenador,5922,2017-08-28,5,Viúvo,Rio de Janeiro,Pós-Graduação
+535,Funcionário 535,42,Masculino,RH,Assistente,6997,2011-06-21,11,Casado,Rio de Janeiro,Superior Completo
+536,Funcionário 536,38,Feminino,RH,Diretor,9032,2013-06-27,9,Casado,São Paulo,Pós-Graduação
+537,Funcionário 537,53,Feminino,TI,Analista,2992,2018-02-15,5,Viúvo,Belo Horizonte,Doutorado
+538,Funcionário 538,27,Masculino,Marketing,Assistente,10112,2018-05-08,5,Casado,Rio de Janeiro,Mestrado
+539,Funcionário 539,54,Feminino,RH,Assistente,7287,2013-01-01,10,Solteiro,Belo Horizonte,Superior Completo
+540,Funcionário 540,26,Masculino,TI,Analista,12578,2013-07-29,9,Viúvo,Rio de Janeiro,Ensino Médio
+541,Funcionário 541,41,Masculino,RH,Analista,4240,2012-07-04,10,Solteiro,Curitiba,Ensino Médio
+542,Funcionário 542,52,Feminino,Vendas,Coordenador,3476,2018-06-09,4,Divorciado,Curitiba,Pós-Graduação
+543,Funcionário 543,52,Masculino,Marketing,Diretor,8426,2021-08-18,1,Divorciado,São Paulo,Mestrado
+544,Funcionário 544,53,Masculino,Financeiro,Diretor,13599,2012-10-25,10,Casado,São Paulo,Ensino Médio
+545,Funcionário 545,35,Feminino,RH,Analista,2389,2015-06-01,7,Divorciado,Belo Horizonte,Pós-Graduação
+546,Funcionário 546,56,Masculino,Vendas,Gerente,2999,2019-03-09,4,Solteiro,Rio de Janeiro,Doutorado
+547,Funcionário 547,49,Masculino,Financeiro,Assistente,14812,2016-11-16,6,Divorciado,Porto Alegre,Pós-Graduação
+548,Funcionário 548,41,Masculino,Financeiro,Assistente,3855,2010-09-28,12,Solteiro,São Paulo,Pós-Graduação
+549,Funcionário 549,40,Feminino,RH,Analista,10125,2013-04-01,10,Casado,Porto Alegre,Pós-Graduação
+550,Funcionário 550,49,Masculino,TI,Gerente,10850,2022-06-22,0,Casado,Porto Alegre,Superior Completo
+551,Funcionário 551,54,Feminino,RH,Coordenador,4763,2021-07-02,1,Solteiro,Rio de Janeiro,Pós-Graduação
+552,Funcionário 552,29,Feminino,Vendas,Analista,5663,2020-04-22,3,Divorciado,Belo Horizonte,Pós-Graduação
+553,Funcionário 553,30,Masculino,Financeiro,Analista,6986,2016-07-26,6,Casado,Rio de Janeiro,Superior Completo
+554,Funcionário 554,40,Masculino,RH,Assistente,3481,2022-05-27,0,Viúvo,São Paulo,Superior Completo
+555,Funcionário 555,42,Masculino,TI,Analista,9256,2021-08-06,1,Casado,Porto Alegre,Doutorado
+556,Funcionário 556,52,Feminino,RH,Analista,5731,2021-06-14,1,Divorciado,Rio de Janeiro,Mestrado
+557,Funcionário 557,58,Masculino,Marketing,Analista,9262,2014-09-08,8,Viúvo,Rio de Janeiro,Ensino Médio
+558,Funcionário 558,47,Masculino,TI,Assistente,2451,2016-02-09,7,Divorciado,Rio de Janeiro,Ensino Médio
+559,Funcionário 559,34,Masculino,Vendas,Coordenador,12667,2010-05-09,13,Solteiro,São Paulo,Pós-Graduação
+560,Funcionário 560,37,Masculino,Financeiro,Coordenador,13414,2013-06-23,9,Viúvo,Belo Horizonte,Doutorado
+561,Funcionário 561,42,Masculino,RH,Analista,11729,2020-01-21,3,Divorciado,Rio de Janeiro,Pós-Graduação
+562,Funcionário 562,39,Feminino,TI,Assistente,5093,2014-05-21,8,Viúvo,São Paulo,Ensino Médio
+563,Funcionário 563,30,Feminino,Marketing,Coordenador,2882,2020-11-14,2,Divorciado,Porto Alegre,Superior Completo
+564,Funcionário 564,36,Masculino,TI,Coordenador,6408,2021-08-15,1,Viúvo,Curitiba,Mestrado
+565,Funcionário 565,53,Masculino,Logística,Coordenador,6068,2011-09-20,11,Divorciado,São Paulo,Doutorado
+566,Funcionário 566,29,Masculino,Marketing,Assistente,12758,2020-05-25,2,Solteiro,Curitiba,Superior Completo
+567,Funcionário 567,58,Masculino,Vendas,Assistente,5277,2015-08-07,7,Viúvo,Rio de Janeiro,Mestrado
+568,Funcionário 568,36,Feminino,Financeiro,Analista,10566,2019-09-23,3,Viúvo,Rio de Janeiro,Doutorado
+569,Funcionário 569,29,Masculino,Vendas,Diretor,14738,2016-05-30,6,Viúvo,São Paulo,Doutorado
+570,Funcionário 570,26,Feminino,RH,Coordenador,13889,2018-10-20,4,Viúvo,Curitiba,Ensino Médio
+571,Funcionário 571,24,Feminino,TI,Diretor,9951,2010-09-07,12,Solteiro,Rio de Janeiro,Superior Completo
+572,Funcionário 572,45,Masculino,Logística,Assistente,13254,2018-01-04,5,Viúvo,Porto Alegre,Doutorado
+573,Funcionário 573,31,Feminino,Marketing,Assistente,6690,2012-09-01,10,Casado,Belo Horizonte,Doutorado
+574,Funcionário 574,48,Feminino,Marketing,Assistente,13442,2013-08-18,9,Solteiro,Belo Horizonte,Mestrado
+575,Funcionário 575,36,Feminino,TI,Diretor,6595,2012-09-10,10,Casado,Rio de Janeiro,Ensino Médio
+576,Funcionário 576,64,Feminino,Logística,Assistente,6559,2012-06-07,10,Viúvo,Curitiba,Pós-Graduação
+577,Funcionário 577,33,Masculino,TI,Analista,9291,2018-01-16,5,Divorciado,Rio de Janeiro,Ensino Médio
+578,Funcionário 578,22,Masculino,RH,Assistente,10160,2015-10-19,7,Casado,Curitiba,Pós-Graduação
+579,Funcionário 579,52,Feminino,Vendas,Gerente,2112,2017-04-26,6,Viúvo,Porto Alegre,Superior Completo
+580,Funcionário 580,29,Masculino,Marketing,Diretor,7131,2013-08-19,9,Casado,Curitiba,Superior Completo
+581,Funcionário 581,42,Masculino,RH,Gerente,5197,2011-04-16,12,Viúvo,Rio de Janeiro,Doutorado
+582,Funcionário 582,38,Masculino,Vendas,Assistente,12570,2015-06-11,7,Viúvo,Porto Alegre,Superior Completo
+583,Funcionário 583,53,Masculino,RH,Analista,12116,2010-04-01,13,Viúvo,São Paulo,Doutorado
+584,Funcionário 584,40,Masculino,Logística,Coordenador,2139,2011-06-14,11,Divorciado,Belo Horizonte,Ensino Médio
+585,Funcionário 585,33,Feminino,Marketing,Assistente,3424,2021-02-11,2,Casado,Rio de Janeiro,Superior Completo
+586,Funcionário 586,56,Masculino,TI,Analista,4949,2017-08-05,5,Solteiro,Rio de Janeiro,Ensino Médio
+587,Funcionário 587,62,Masculino,TI,Diretor,5168,2014-08-14,8,Solteiro,Rio de Janeiro,Ensino Médio
+588,Funcionário 588,59,Masculino,Vendas,Gerente,10708,2010-07-11,12,Solteiro,Porto Alegre,Superior Completo
+589,Funcionário 589,56,Masculino,Financeiro,Gerente,12808,2015-06-10,7,Solteiro,São Paulo,Ensino Médio
+590,Funcionário 590,31,Feminino,Logística,Gerente,8043,2019-12-03,3,Viúvo,Curitiba,Superior Completo
+591,Funcionário 591,48,Feminino,Vendas,Diretor,8989,2015-12-26,7,Casado,São Paulo,Superior Completo
+592,Funcionário 592,22,Feminino,Financeiro,Analista,9236,2022-02-27,1,Casado,Porto Alegre,Superior Completo
+593,Funcionário 593,52,Feminino,RH,Diretor,8261,2012-10-05,10,Divorciado,Rio de Janeiro,Pós-Graduação
+594,Funcionário 594,40,Masculino,Logística,Gerente,2887,2020-05-11,2,Casado,Belo Horizonte,Ensino Médio
+595,Funcionário 595,46,Feminino,RH,Assistente,5104,2021-10-08,1,Casado,Rio de Janeiro,Mestrado
+596,Funcionário 596,60,Masculino,Marketing,Coordenador,2049,2022-10-13,0,Casado,Curitiba,Superior Completo
+597,Funcionário 597,28,Masculino,Logística,Diretor,5951,2021-09-27,1,Divorciado,Belo Horizonte,Ensino Médio
+598,Funcionário 598,35,Masculino,Financeiro,Diretor,5560,2015-08-15,7,Solteiro,Rio de Janeiro,Doutorado
+599,Funcionário 599,64,Masculino,Marketing,Analista,2018,2019-01-22,4,Casado,Belo Horizonte,Superior Completo
+600,Funcionário 600,29,Masculino,TI,Analista,6821,2014-09-13,8,Divorciado,São Paulo,Superior Completo
+601,Funcionário 601,26,Feminino,Financeiro,Diretor,8340,2010-11-07,12,Divorciado,Porto Alegre,Mestrado
+602,Funcionário 602,27,Feminino,Vendas,Gerente,10058,2022-06-05,0,Viúvo,Rio de Janeiro,Pós-Graduação
+603,Funcionário 603,61,Feminino,TI,Coordenador,11665,2013-06-14,9,Divorciado,Curitiba,Pós-Graduação
+604,Funcionário 604,34,Feminino,TI,Analista,14253,2020-10-07,2,Solteiro,São Paulo,Superior Completo
+605,Funcionário 605,55,Masculino,Vendas,Gerente,4606,2018-12-13,4,Casado,Rio de Janeiro,Ensino Médio
+606,Funcionário 606,24,Feminino,Logística,Assistente,9846,2011-08-08,11,Divorciado,São Paulo,Doutorado
+607,Funcionário 607,63,Masculino,TI,Analista,10643,2017-08-31,5,Solteiro,Curitiba,Doutorado
+608,Funcionário 608,30,Feminino,Financeiro,Gerente,8432,2010-12-26,12,Divorciado,Rio de Janeiro,Ensino Médio
+609,Funcionário 609,57,Masculino,Marketing,Gerente,5765,2017-11-06,5,Divorciado,Curitiba,Superior Completo
+610,Funcionário 610,59,Masculino,TI,Coordenador,4438,2015-07-05,7,Divorciado,Belo Horizonte,Doutorado
+611,Funcionário 611,26,Feminino,Financeiro,Coordenador,14502,2020-12-20,2,Divorciado,Curitiba,Pós-Graduação
+612,Funcionário 612,44,Masculino,RH,Assistente,11741,2014-06-14,8,Divorciado,Belo Horizonte,Ensino Médio
+613,Funcionário 613,19,Masculino,Financeiro,Gerente,8358,2017-07-27,5,Solteiro,Rio de Janeiro,Mestrado
+614,Funcionário 614,22,Feminino,Marketing,Gerente,13666,2012-06-09,10,Casado,Belo Horizonte,Superior Completo
+615,Funcionário 615,46,Masculino,Financeiro,Coordenador,10319,2012-01-02,11,Casado,Rio de Janeiro,Ensino Médio
+616,Funcionário 616,54,Feminino,Vendas,Analista,7941,2020-11-05,2,Casado,Rio de Janeiro,Doutorado
+617,Funcionário 617,55,Feminino,Marketing,Analista,9644,2022-11-15,0,Casado,Porto Alegre,Superior Completo
+618,Funcionário 618,36,Feminino,Logística,Diretor,6855,2016-11-09,6,Solteiro,Rio de Janeiro,Pós-Graduação
+619,Funcionário 619,25,Masculino,RH,Coordenador,8547,2011-09-07,11,Viúvo,Belo Horizonte,Superior Completo
+620,Funcionário 620,62,Masculino,Vendas,Diretor,9196,2020-06-03,2,Viúvo,Porto Alegre,Superior Completo
+621,Funcionário 621,18,Masculino,Logística,Coordenador,7911,2014-09-16,8,Solteiro,Porto Alegre,Pós-Graduação
+622,Funcionário 622,39,Feminino,Financeiro,Assistente,8481,2014-05-07,9,Solteiro,Rio de Janeiro,Pós-Graduação
+623,Funcionário 623,34,Masculino,Marketing,Gerente,4761,2014-05-31,8,Divorciado,Curitiba,Superior Completo
+624,Funcionário 624,24,Feminino,RH,Assistente,6456,2012-06-15,10,Divorciado,Curitiba,Pós-Graduação
+625,Funcionário 625,42,Feminino,Vendas,Coordenador,14856,2010-10-05,12,Divorciado,Porto Alegre,Ensino Médio
+626,Funcionário 626,62,Masculino,Logística,Gerente,11607,2022-09-22,0,Casado,Rio de Janeiro,Pós-Graduação
+627,Funcionário 627,21,Feminino,Logística,Analista,8361,2014-06-25,8,Divorciado,Curitiba,Pós-Graduação
+628,Funcionário 628,53,Masculino,RH,Analista,7693,2015-11-29,7,Viúvo,Rio de Janeiro,Superior Completo
+629,Funcionário 629,23,Masculino,Financeiro,Diretor,7788,2016-08-29,6,Casado,Rio de Janeiro,Ensino Médio
+630,Funcionário 630,48,Masculino,RH,Coordenador,2201,2020-09-09,2,Divorciado,Porto Alegre,Mestrado
+631,Funcionário 631,36,Masculino,Logística,Coordenador,8160,2018-12-07,4,Casado,Porto Alegre,Mestrado
+632,Funcionário 632,61,Masculino,TI,Analista,12561,2013-12-20,9,Viúvo,São Paulo,Doutorado
+633,Funcionário 633,56,Feminino,Vendas,Assistente,2517,2022-04-28,1,Divorciado,Curitiba,Pós-Graduação
+634,Funcionário 634,44,Feminino,RH,Gerente,9737,2013-05-17,9,Viúvo,Curitiba,Pós-Graduação
+635,Funcionário 635,27,Feminino,Logística,Assistente,11533,2021-04-10,2,Viúvo,Curitiba,Ensino Médio
+636,Funcionário 636,43,Masculino,Financeiro,Assistente,14968,2011-11-09,11,Viúvo,Belo Horizonte,Mestrado
+637,Funcionário 637,36,Masculino,Logística,Analista,3988,2017-04-12,6,Divorciado,Rio de Janeiro,Doutorado
+638,Funcionário 638,56,Masculino,Financeiro,Analista,13737,2015-07-22,7,Solteiro,Porto Alegre,Ensino Médio
+639,Funcionário 639,20,Feminino,RH,Analista,14712,2020-04-16,3,Divorciado,Curitiba,Pós-Graduação
+640,Funcionário 640,62,Masculino,Financeiro,Diretor,5802,2022-08-30,0,Viúvo,São Paulo,Mestrado
+641,Funcionário 641,30,Feminino,Marketing,Assistente,7808,2015-07-31,7,Divorciado,Curitiba,Doutorado
+642,Funcionário 642,45,Feminino,Marketing,Coordenador,13467,2017-04-03,6,Viúvo,Rio de Janeiro,Superior Completo
+643,Funcionário 643,37,Masculino,Marketing,Gerente,13846,2011-10-19,11,Solteiro,Rio de Janeiro,Mestrado
+644,Funcionário 644,45,Masculino,TI,Diretor,9162,2010-06-15,12,Casado,Porto Alegre,Doutorado
+645,Funcionário 645,25,Feminino,RH,Coordenador,12626,2022-07-28,0,Solteiro,Belo Horizonte,Ensino Médio
+646,Funcionário 646,58,Masculino,Logística,Assistente,8241,2011-08-13,11,Solteiro,Porto Alegre,Superior Completo
+647,Funcionário 647,56,Feminino,Logística,Analista,10399,2022-05-22,0,Casado,Curitiba,Doutorado
+648,Funcionário 648,18,Masculino,TI,Assistente,7633,2017-09-22,5,Divorciado,São Paulo,Doutorado
+649,Funcionário 649,20,Masculino,Financeiro,Gerente,7755,2021-08-29,1,Casado,Porto Alegre,Pós-Graduação
+650,Funcionário 650,30,Feminino,TI,Diretor,12825,2013-06-16,9,Divorciado,Belo Horizonte,Mestrado
+651,Funcionário 651,45,Masculino,Financeiro,Diretor,8309,2010-03-13,13,Divorciado,Porto Alegre,Pós-Graduação
+652,Funcionário 652,42,Feminino,Financeiro,Gerente,6117,2019-08-18,3,Viúvo,Rio de Janeiro,Superior Completo
+653,Funcionário 653,50,Masculino,Vendas,Coordenador,10345,2019-10-21,3,Viúvo,Curitiba,Doutorado
+654,Funcionário 654,55,Feminino,Logística,Coordenador,13558,2010-09-26,12,Casado,Curitiba,Pós-Graduação
+655,Funcionário 655,23,Feminino,Marketing,Diretor,14506,2014-11-12,8,Solteiro,Curitiba,Mestrado
+656,Funcionário 656,61,Masculino,Financeiro,Diretor,14956,2016-09-28,6,Casado,Curitiba,Superior Completo
+657,Funcionário 657,62,Feminino,Vendas,Analista,3518,2013-06-22,9,Divorciado,Curitiba,Ensino Médio
+658,Funcionário 658,49,Masculino,Logística,Coordenador,8163,2012-10-12,10,Viúvo,Curitiba,Pós-Graduação
+659,Funcionário 659,62,Masculino,Marketing,Gerente,4600,2017-06-15,5,Casado,São Paulo,Superior Completo
+660,Funcionário 660,64,Masculino,Financeiro,Coordenador,4195,2012-12-19,10,Casado,Belo Horizonte,Ensino Médio
+661,Funcionário 661,38,Feminino,Financeiro,Analista,14690,2021-03-25,2,Viúvo,Curitiba,Pós-Graduação
+662,Funcionário 662,33,Feminino,TI,Diretor,14883,2011-02-11,12,Viúvo,Belo Horizonte,Superior Completo
+663,Funcionário 663,38,Masculino,TI,Diretor,5554,2018-06-04,4,Viúvo,Curitiba,Superior Completo
+664,Funcionário 664,28,Masculino,Logística,Analista,12606,2012-09-12,10,Divorciado,Porto Alegre,Pós-Graduação
+665,Funcionário 665,54,Feminino,Marketing,Gerente,4849,2019-11-13,3,Viúvo,Curitiba,Superior Completo
+666,Funcionário 666,53,Masculino,Financeiro,Diretor,3742,2022-04-13,1,Solteiro,Rio de Janeiro,Doutorado
+667,Funcionário 667,52,Masculino,Logística,Assistente,3306,2011-12-11,11,Casado,São Paulo,Pós-Graduação
+668,Funcionário 668,36,Feminino,Logística,Diretor,5849,2017-03-03,6,Viúvo,Porto Alegre,Superior Completo
+669,Funcionário 669,37,Masculino,RH,Assistente,14360,2013-11-12,9,Viúvo,Porto Alegre,Ensino Médio
+670,Funcionário 670,35,Feminino,TI,Analista,14768,2022-08-27,0,Divorciado,Rio de Janeiro,Ensino Médio
+671,Funcionário 671,64,Masculino,Marketing,Analista,9519,2014-01-25,9,Divorciado,Curitiba,Doutorado
+672,Funcionário 672,58,Feminino,Financeiro,Diretor,14847,2018-01-29,5,Casado,São Paulo,Pós-Graduação
+673,Funcionário 673,31,Masculino,Logística,Coordenador,6195,2022-09-26,0,Solteiro,Porto Alegre,Superior Completo
+674,Funcionário 674,32,Masculino,Financeiro,Assistente,7178,2018-01-13,5,Casado,São Paulo,Superior Completo
+675,Funcionário 675,48,Feminino,RH,Gerente,4555,2021-04-07,2,Viúvo,Porto Alegre,Ensino Médio
+676,Funcionário 676,18,Masculino,Marketing,Diretor,4305,2022-10-15,0,Solteiro,Curitiba,Doutorado
+677,Funcionário 677,20,Feminino,Logística,Gerente,14700,2012-09-30,10,Solteiro,Porto Alegre,Ensino Médio
+678,Funcionário 678,33,Masculino,Financeiro,Diretor,9619,2016-10-02,6,Solteiro,Porto Alegre,Ensino Médio
+679,Funcionário 679,40,Feminino,TI,Coordenador,11280,2016-10-02,6,Solteiro,Belo Horizonte,Doutorado
+680,Funcionário 680,28,Feminino,RH,Coordenador,4642,2015-04-23,8,Casado,Curitiba,Pós-Graduação
+681,Funcionário 681,29,Feminino,Marketing,Coordenador,11369,2015-04-24,8,Divorciado,Rio de Janeiro,Superior Completo
+682,Funcionário 682,27,Feminino,RH,Coordenador,8409,2014-06-24,8,Divorciado,Rio de Janeiro,Pós-Graduação
+683,Funcionário 683,49,Masculino,TI,Analista,6757,2014-08-26,8,Viúvo,Curitiba,Mestrado
+684,Funcionário 684,33,Masculino,Marketing,Analista,4994,2022-05-25,0,Divorciado,Rio de Janeiro,Mestrado
+685,Funcionário 685,25,Feminino,RH,Assistente,10751,2015-09-23,7,Divorciado,Curitiba,Mestrado
+686,Funcionário 686,55,Feminino,Vendas,Gerente,13156,2015-03-11,8,Divorciado,Rio de Janeiro,Doutorado
+687,Funcionário 687,29,Feminino,TI,Diretor,3271,2021-08-11,1,Divorciado,Belo Horizonte,Ensino Médio
+688,Funcionário 688,41,Masculino,TI,Diretor,3813,2019-04-22,4,Viúvo,Rio de Janeiro,Pós-Graduação
+689,Funcionário 689,45,Masculino,TI,Analista,13107,2012-12-09,10,Casado,Porto Alegre,Superior Completo
+690,Funcionário 690,25,Masculino,Vendas,Diretor,10801,2016-07-30,6,Solteiro,Curitiba,Mestrado
+691,Funcionário 691,45,Masculino,Vendas,Analista,4461,2018-10-18,4,Divorciado,São Paulo,Pós-Graduação
+692,Funcionário 692,53,Feminino,Financeiro,Assistente,6120,2021-01-20,2,Casado,São Paulo,Mestrado
+693,Funcionário 693,43,Feminino,Logística,Gerente,8124,2013-02-25,10,Divorciado,Curitiba,Mestrado
+694,Funcionário 694,25,Feminino,RH,Assistente,10475,2016-09-11,6,Divorciado,Belo Horizonte,Superior Completo
+695,Funcionário 695,45,Masculino,Financeiro,Coordenador,13120,2015-05-11,7,Solteiro,Rio de Janeiro,Doutorado
+696,Funcionário 696,45,Masculino,RH,Coordenador,6396,2022-06-25,0,Solteiro,Belo Horizonte,Ensino Médio
+697,Funcionário 697,54,Masculino,Logística,Coordenador,11283,2020-09-12,2,Solteiro,São Paulo,Doutorado
+698,Funcionário 698,58,Feminino,Vendas,Assistente,2816,2012-03-18,11,Divorciado,Curitiba,Pós-Graduação
+699,Funcionário 699,53,Feminino,Logística,Diretor,9304,2010-07-06,12,Divorciado,Curitiba,Doutorado
+700,Funcionário 700,44,Masculino,Vendas,Gerente,9331,2022-05-22,0,Divorciado,Belo Horizonte,Pós-Graduação
+701,Funcionário 701,34,Feminino,Logística,Coordenador,2082,2013-07-31,9,Solteiro,Belo Horizonte,Pós-Graduação
+702,Funcionário 702,26,Masculino,Financeiro,Coordenador,3920,2016-04-03,7,Viúvo,Rio de Janeiro,Ensino Médio
+703,Funcionário 703,50,Masculino,Marketing,Coordenador,9817,2012-01-28,11,Casado,Porto Alegre,Superior Completo
+704,Funcionário 704,37,Feminino,Financeiro,Gerente,13683,2021-08-02,1,Viúvo,Porto Alegre,Ensino Médio
+705,Funcionário 705,30,Masculino,RH,Coordenador,13336,2020-07-21,2,Divorciado,Rio de Janeiro,Doutorado
+706,Funcionário 706,45,Feminino,Financeiro,Gerente,4093,2021-09-06,1,Divorciado,Porto Alegre,Pós-Graduação
+707,Funcionário 707,46,Masculino,TI,Coordenador,14905,2016-01-16,7,Viúvo,São Paulo,Mestrado
+708,Funcionário 708,30,Feminino,RH,Assistente,9071,2019-09-29,3,Divorciado,Porto Alegre,Mestrado
+709,Funcionário 709,63,Feminino,Logística,Assistente,9967,2014-04-30,9,Casado,Rio de Janeiro,Pós-Graduação
+710,Funcionário 710,52,Feminino,RH,Gerente,10367,2012-08-19,10,Divorciado,Porto Alegre,Ensino Médio
+711,Funcionário 711,23,Masculino,Marketing,Assistente,7285,2020-07-14,2,Casado,Curitiba,Superior Completo
+712,Funcionário 712,35,Masculino,Vendas,Gerente,12896,2019-10-16,3,Viúvo,Belo Horizonte,Ensino Médio
+713,Funcionário 713,22,Feminino,Logística,Assistente,6937,2012-05-25,10,Viúvo,São Paulo,Pós-Graduação
+714,Funcionário 714,64,Feminino,RH,Assistente,2369,2016-08-15,6,Divorciado,Curitiba,Pós-Graduação
+715,Funcionário 715,42,Masculino,Logística,Gerente,3818,2021-06-30,1,Casado,Curitiba,Superior Completo
+716,Funcionário 716,19,Masculino,Logística,Diretor,4101,2012-09-28,10,Divorciado,Rio de Janeiro,Doutorado
+717,Funcionário 717,27,Masculino,Logística,Assistente,14977,2019-04-08,4,Solteiro,Belo Horizonte,Doutorado
+718,Funcionário 718,47,Feminino,Vendas,Coordenador,5490,2021-02-18,2,Solteiro,Belo Horizonte,Superior Completo
+719,Funcionário 719,62,Masculino,Financeiro,Diretor,3779,2017-10-16,5,Solteiro,São Paulo,Doutorado
+720,Funcionário 720,22,Masculino,Logística,Gerente,9674,2014-01-21,9,Solteiro,Rio de Janeiro,Mestrado
+721,Funcionário 721,50,Feminino,TI,Diretor,3364,2019-01-15,4,Divorciado,São Paulo,Doutorado
+722,Funcionário 722,18,Masculino,Marketing,Analista,9294,2011-10-20,11,Solteiro,Porto Alegre,Doutorado
+723,Funcionário 723,35,Masculino,Vendas,Analista,14654,2017-08-12,5,Casado,Curitiba,Doutorado
+724,Funcionário 724,49,Masculino,RH,Assistente,13534,2011-02-27,12,Viúvo,São Paulo,Mestrado
+725,Funcionário 725,64,Feminino,Vendas,Assistente,14931,2020-01-30,3,Viúvo,Curitiba,Doutorado
+726,Funcionário 726,28,Feminino,RH,Coordenador,5676,2021-09-06,1,Solteiro,Rio de Janeiro,Mestrado
+727,Funcionário 727,38,Feminino,Vendas,Diretor,4426,2017-06-03,5,Solteiro,Porto Alegre,Superior Completo
+728,Funcionário 728,43,Feminino,RH,Analista,10264,2011-03-29,12,Solteiro,Rio de Janeiro,Ensino Médio
+729,Funcionário 729,42,Feminino,Logística,Assistente,10089,2016-07-25,6,Divorciado,Porto Alegre,Superior Completo
+730,Funcionário 730,39,Feminino,Financeiro,Diretor,4962,2015-05-30,7,Viúvo,Porto Alegre,Ensino Médio
+731,Funcionário 731,44,Feminino,RH,Assistente,2859,2014-07-16,8,Solteiro,Curitiba,Superior Completo
+732,Funcionário 732,30,Masculino,RH,Assistente,14048,2016-12-16,6,Casado,Rio de Janeiro,Ensino Médio
+733,Funcionário 733,50,Masculino,TI,Analista,6138,2018-06-03,4,Solteiro,Rio de Janeiro,Ensino Médio
+734,Funcionário 734,51,Feminino,RH,Analista,4424,2018-08-31,4,Viúvo,São Paulo,Pós-Graduação
+735,Funcionário 735,58,Masculino,TI,Assistente,11256,2018-02-14,5,Solteiro,Rio de Janeiro,Ensino Médio
+736,Funcionário 736,52,Masculino,Marketing,Gerente,12409,2015-08-16,7,Viúvo,São Paulo,Ensino Médio
+737,Funcionário 737,18,Feminino,Logística,Assistente,6017,2010-10-15,12,Solteiro,Belo Horizonte,Pós-Graduação
+738,Funcionário 738,38,Masculino,TI,Assistente,12451,2018-10-23,4,Casado,Belo Horizonte,Doutorado
+739,Funcionário 739,23,Masculino,Financeiro,Coordenador,13943,2020-07-21,2,Solteiro,Belo Horizonte,Doutorado
+740,Funcionário 740,45,Masculino,Logística,Coordenador,12278,2013-12-18,9,Casado,Rio de Janeiro,Pós-Graduação
+741,Funcionário 741,34,Masculino,TI,Coordenador,10560,2011-08-31,11,Casado,Rio de Janeiro,Mestrado
+742,Funcionário 742,22,Masculino,Logística,Gerente,12996,2022-06-19,0,Solteiro,São Paulo,Ensino Médio
+743,Funcionário 743,48,Feminino,Logística,Gerente,10342,2014-10-31,8,Casado,Porto Alegre,Ensino Médio
+744,Funcionário 744,22,Feminino,Logística,Assistente,3134,2013-05-10,10,Divorciado,São Paulo,Pós-Graduação
+745,Funcionário 745,55,Feminino,Marketing,Coordenador,7166,2013-05-20,9,Solteiro,Belo Horizonte,Pós-Graduação
+746,Funcionário 746,20,Masculino,Financeiro,Gerente,7119,2012-10-26,10,Solteiro,São Paulo,Mestrado
+747,Funcionário 747,40,Feminino,Vendas,Analista,7694,2017-04-25,6,Casado,Porto Alegre,Doutorado
+748,Funcionário 748,54,Masculino,Vendas,Assistente,12976,2020-11-06,2,Casado,Rio de Janeiro,Superior Completo
+749,Funcionário 749,54,Masculino,TI,Diretor,8136,2022-06-09,0,Solteiro,São Paulo,Doutorado
+750,Funcionário 750,27,Masculino,Logística,Assistente,7485,2018-09-13,4,Divorciado,Belo Horizonte,Ensino Médio
+751,Funcionário 751,27,Masculino,TI,Diretor,6164,2020-03-11,3,Casado,Belo Horizonte,Pós-Graduação
+752,Funcionário 752,36,Feminino,Marketing,Coordenador,4346,2014-01-15,9,Casado,Rio de Janeiro,Mestrado
+753,Funcionário 753,34,Feminino,Marketing,Diretor,7039,2017-12-06,5,Viúvo,São Paulo,Doutorado
+754,Funcionário 754,38,Masculino,RH,Coordenador,6897,2012-03-19,11,Divorciado,Porto Alegre,Mestrado
+755,Funcionário 755,31,Feminino,Marketing,Analista,12442,2012-09-05,10,Divorciado,Rio de Janeiro,Doutorado
+756,Funcionário 756,26,Masculino,RH,Diretor,10252,2016-09-29,6,Solteiro,São Paulo,Ensino Médio
+757,Funcionário 757,63,Feminino,Financeiro,Assistente,7041,2011-12-27,11,Divorciado,Curitiba,Superior Completo
+758,Funcionário 758,18,Feminino,TI,Coordenador,13202,2016-11-06,6,Solteiro,Belo Horizonte,Mestrado
+759,Funcionário 759,62,Masculino,Financeiro,Assistente,5901,2019-03-17,4,Viúvo,Porto Alegre,Mestrado
+760,Funcionário 760,30,Feminino,Marketing,Gerente,3337,2013-05-01,10,Divorciado,Porto Alegre,Superior Completo
+761,Funcionário 761,21,Masculino,Financeiro,Coordenador,3184,2021-02-03,2,Casado,Porto Alegre,Mestrado
+762,Funcionário 762,18,Feminino,Financeiro,Diretor,6426,2016-01-07,7,Viúvo,Belo Horizonte,Mestrado
+763,Funcionário 763,57,Masculino,Financeiro,Coordenador,3551,2017-09-07,5,Solteiro,São Paulo,Doutorado
+764,Funcionário 764,49,Masculino,Marketing,Assistente,14625,2012-02-18,11,Viúvo,Rio de Janeiro,Doutorado
+765,Funcionário 765,51,Feminino,Logística,Analista,3629,2012-08-30,10,Solteiro,São Paulo,Superior Completo
+766,Funcionário 766,45,Feminino,Financeiro,Coordenador,11519,2017-09-11,5,Viúvo,Rio de Janeiro,Ensino Médio
+767,Funcionário 767,48,Masculino,RH,Diretor,3526,2015-10-25,7,Solteiro,Porto Alegre,Mestrado
+768,Funcionário 768,25,Feminino,Marketing,Gerente,11865,2011-08-22,11,Divorciado,São Paulo,Ensino Médio
+769,Funcionário 769,56,Feminino,Financeiro,Analista,3361,2019-02-24,4,Casado,Porto Alegre,Superior Completo
+770,Funcionário 770,43,Masculino,Logística,Gerente,11765,2010-08-13,12,Solteiro,Curitiba,Superior Completo
+771,Funcionário 771,51,Masculino,Marketing,Coordenador,12878,2012-04-20,11,Viúvo,Porto Alegre,Doutorado
+772,Funcionário 772,20,Feminino,Vendas,Assistente,6370,2014-12-20,8,Solteiro,Porto Alegre,Mestrado
+773,Funcionário 773,29,Masculino,Logística,Assistente,7283,2013-01-11,10,Solteiro,Rio de Janeiro,Pós-Graduação
+774,Funcionário 774,18,Masculino,RH,Diretor,9610,2010-05-05,13,Solteiro,Curitiba,Superior Completo
+775,Funcionário 775,61,Masculino,Financeiro,Assistente,12558,2018-11-21,4,Viúvo,Porto Alegre,Mestrado
+776,Funcionário 776,22,Feminino,Vendas,Analista,13949,2018-01-10,5,Casado,Porto Alegre,Ensino Médio
+777,Funcionário 777,47,Feminino,Vendas,Assistente,12626,2021-04-18,2,Divorciado,Curitiba,Doutorado
+778,Funcionário 778,47,Masculino,Marketing,Diretor,3993,2018-02-19,5,Casado,Curitiba,Ensino Médio
+779,Funcionário 779,34,Feminino,Vendas,Coordenador,2869,2015-07-11,7,Solteiro,São Paulo,Superior Completo
+780,Funcionário 780,64,Masculino,RH,Coordenador,3014,2016-08-12,6,Viúvo,Rio de Janeiro,Superior Completo
+781,Funcionário 781,40,Feminino,RH,Assistente,12103,2022-07-27,0,Casado,Curitiba,Ensino Médio
+782,Funcionário 782,32,Masculino,TI,Gerente,2602,2018-06-24,4,Solteiro,Curitiba,Superior Completo
+783,Funcionário 783,54,Masculino,RH,Coordenador,14013,2014-05-29,8,Divorciado,Belo Horizonte,Mestrado
+784,Funcionário 784,38,Feminino,Logística,Assistente,2690,2011-12-19,11,Divorciado,Curitiba,Superior Completo
+785,Funcionário 785,31,Masculino,Vendas,Diretor,10685,2019-10-02,3,Divorciado,Rio de Janeiro,Doutorado
+786,Funcionário 786,19,Feminino,RH,Assistente,2489,2012-10-13,10,Solteiro,Porto Alegre,Mestrado
+787,Funcionário 787,28,Feminino,Marketing,Coordenador,8864,2019-10-06,3,Viúvo,Porto Alegre,Pós-Graduação
+788,Funcionário 788,56,Masculino,TI,Diretor,9240,2022-11-15,0,Casado,Porto Alegre,Superior Completo
+789,Funcionário 789,55,Masculino,Vendas,Assistente,12748,2022-03-29,1,Divorciado,Porto Alegre,Superior Completo
+790,Funcionário 790,51,Feminino,TI,Analista,14677,2015-05-15,7,Solteiro,Belo Horizonte,Doutorado
+791,Funcionário 791,55,Masculino,Vendas,Diretor,9786,2012-11-14,10,Solteiro,Curitiba,Doutorado
+792,Funcionário 792,51,Masculino,Marketing,Analista,10024,2013-09-19,9,Casado,Porto Alegre,Ensino Médio
+793,Funcionário 793,35,Masculino,TI,Gerente,2294,2019-05-20,3,Divorciado,São Paulo,Ensino Médio
+794,Funcionário 794,47,Masculino,Financeiro,Diretor,7488,2010-04-26,13,Solteiro,Porto Alegre,Ensino Médio
+795,Funcionário 795,32,Masculino,Logística,Analista,6027,2015-09-27,7,Casado,Curitiba,Doutorado
+796,Funcionário 796,44,Feminino,Logística,Coordenador,13035,2014-12-07,8,Viúvo,Porto Alegre,Ensino Médio
+797,Funcionário 797,51,Feminino,Vendas,Coordenador,4912,2015-11-17,7,Viúvo,Belo Horizonte,Ensino Médio
+798,Funcionário 798,55,Masculino,Financeiro,Gerente,11909,2014-06-09,8,Viúvo,Rio de Janeiro,Pós-Graduação
+799,Funcionário 799,50,Masculino,TI,Diretor,12788,2018-01-29,5,Divorciado,Rio de Janeiro,Ensino Médio
+800,Funcionário 800,41,Masculino,Financeiro,Diretor,6744,2020-05-20,2,Casado,Curitiba,Superior Completo
+801,Funcionário 801,32,Feminino,Financeiro,Diretor,3873,2018-01-20,5,Casado,Rio de Janeiro,Doutorado
+802,Funcionário 802,47,Masculino,TI,Gerente,14855,2012-09-04,10,Solteiro,Rio de Janeiro,Mestrado
+803,Funcionário 803,59,Feminino,Marketing,Diretor,5258,2018-05-25,4,Solteiro,São Paulo,Pós-Graduação
+804,Funcionário 804,34,Feminino,Financeiro,Coordenador,4817,2012-02-23,11,Solteiro,Curitiba,Doutorado
+805,Funcionário 805,22,Feminino,Financeiro,Analista,10636,2010-08-29,12,Casado,Curitiba,Doutorado
+806,Funcionário 806,46,Masculino,Marketing,Coordenador,5641,2014-04-03,9,Solteiro,Rio de Janeiro,Superior Completo
+807,Funcionário 807,21,Feminino,Financeiro,Coordenador,6458,2022-07-15,0,Casado,Rio de Janeiro,Ensino Médio
+808,Funcionário 808,27,Masculino,Financeiro,Analista,7307,2012-10-09,10,Casado,Rio de Janeiro,Superior Completo
+809,Funcionário 809,34,Feminino,Financeiro,Coordenador,10933,2010-07-06,12,Viúvo,Belo Horizonte,Ensino Médio
+810,Funcionário 810,27,Masculino,Logística,Gerente,4041,2015-02-25,8,Solteiro,Porto Alegre,Ensino Médio
+811,Funcionário 811,34,Feminino,RH,Analista,2679,2022-07-23,0,Viúvo,Belo Horizonte,Doutorado
+812,Funcionário 812,37,Masculino,Marketing,Coordenador,12659,2011-03-07,12,Divorciado,Curitiba,Ensino Médio
+813,Funcionário 813,41,Feminino,Financeiro,Assistente,13889,2010-08-27,12,Divorciado,São Paulo,Pós-Graduação
+814,Funcionário 814,22,Masculino,Logística,Coordenador,7738,2016-06-03,6,Divorciado,Porto Alegre,Pós-Graduação
+815,Funcionário 815,51,Masculino,Marketing,Gerente,7668,2010-03-17,13,Casado,São Paulo,Pós-Graduação
+816,Funcionário 816,23,Masculino,Vendas,Diretor,11550,2013-09-18,9,Casado,Curitiba,Doutorado
+817,Funcionário 817,19,Masculino,Vendas,Coordenador,9697,2016-05-19,6,Casado,Curitiba,Superior Completo
+818,Funcionário 818,30,Feminino,Financeiro,Diretor,10033,2022-10-31,0,Solteiro,São Paulo,Mestrado
+819,Funcionário 819,60,Feminino,Logística,Assistente,2062,2015-03-18,8,Viúvo,São Paulo,Ensino Médio
+820,Funcionário 820,60,Masculino,Logística,Coordenador,9829,2020-12-27,2,Casado,São Paulo,Mestrado
+821,Funcionário 821,28,Feminino,Marketing,Analista,12751,2022-10-15,0,Viúvo,Curitiba,Superior Completo
+822,Funcionário 822,64,Masculino,Marketing,Diretor,13961,2015-08-22,7,Viúvo,Rio de Janeiro,Superior Completo
+823,Funcionário 823,40,Masculino,Logística,Assistente,9352,2010-05-21,12,Viúvo,São Paulo,Doutorado
+824,Funcionário 824,33,Feminino,Marketing,Analista,8915,2014-11-25,8,Solteiro,Porto Alegre,Pós-Graduação
+825,Funcionário 825,48,Masculino,Logística,Analista,14543,2019-12-06,3,Solteiro,Curitiba,Pós-Graduação
+826,Funcionário 826,28,Masculino,RH,Analista,10326,2010-01-17,13,Divorciado,Belo Horizonte,Superior Completo
+827,Funcionário 827,33,Feminino,Logística,Analista,5644,2021-11-27,1,Divorciado,Belo Horizonte,Doutorado
+828,Funcionário 828,25,Masculino,Vendas,Coordenador,6970,2011-04-10,12,Viúvo,Porto Alegre,Doutorado
+829,Funcionário 829,21,Masculino,Marketing,Coordenador,12327,2022-03-30,1,Divorciado,Rio de Janeiro,Ensino Médio
+830,Funcionário 830,57,Masculino,Logística,Coordenador,10003,2015-01-02,8,Viúvo,São Paulo,Pós-Graduação
+831,Funcionário 831,21,Masculino,Logística,Assistente,5278,2018-04-17,5,Solteiro,Curitiba,Superior Completo
+832,Funcionário 832,42,Feminino,Marketing,Assistente,9296,2011-06-04,11,Solteiro,São Paulo,Mestrado
+833,Funcionário 833,20,Feminino,RH,Assistente,11014,2010-03-31,13,Solteiro,Curitiba,Pós-Graduação
+834,Funcionário 834,49,Feminino,RH,Gerente,5074,2017-10-22,5,Casado,Belo Horizonte,Ensino Médio
+835,Funcionário 835,20,Masculino,Marketing,Assistente,13173,2017-10-14,5,Viúvo,São Paulo,Doutorado
+836,Funcionário 836,44,Masculino,TI,Coordenador,10312,2022-12-09,0,Solteiro,Porto Alegre,Superior Completo
+837,Funcionário 837,46,Feminino,Marketing,Coordenador,9552,2015-02-28,8,Viúvo,Rio de Janeiro,Pós-Graduação
+838,Funcionário 838,49,Masculino,Marketing,Gerente,3637,2021-06-03,1,Divorciado,Porto Alegre,Mestrado
+839,Funcionário 839,36,Masculino,RH,Gerente,7103,2012-07-14,10,Divorciado,Rio de Janeiro,Ensino Médio
+840,Funcionário 840,38,Masculino,RH,Assistente,11116,2020-03-23,3,Solteiro,São Paulo,Ensino Médio
+841,Funcionário 841,22,Masculino,Marketing,Diretor,2644,2012-08-27,10,Viúvo,São Paulo,Pós-Graduação
+842,Funcionário 842,35,Feminino,Marketing,Gerente,4032,2012-12-30,10,Solteiro,Rio de Janeiro,Mestrado
+843,Funcionário 843,45,Feminino,Marketing,Analista,4761,2018-10-01,4,Divorciado,Belo Horizonte,Ensino Médio
+844,Funcionário 844,59,Feminino,RH,Coordenador,4068,2013-11-05,9,Solteiro,Curitiba,Superior Completo
+845,Funcionário 845,39,Masculino,Marketing,Analista,2241,2019-03-19,4,Viúvo,Porto Alegre,Ensino Médio
+846,Funcionário 846,38,Feminino,Marketing,Coordenador,4668,2021-09-30,1,Divorciado,Porto Alegre,Mestrado
+847,Funcionário 847,23,Feminino,Financeiro,Coordenador,2802,2020-11-26,2,Casado,Porto Alegre,Doutorado
+848,Funcionário 848,18,Masculino,TI,Gerente,7059,2021-11-02,1,Divorciado,São Paulo,Doutorado
+849,Funcionário 849,22,Masculino,Vendas,Gerente,14356,2020-12-27,2,Casado,Porto Alegre,Pós-Graduação
+850,Funcionário 850,58,Feminino,TI,Analista,2195,2022-06-23,0,Solteiro,Curitiba,Mestrado
+851,Funcionário 851,29,Feminino,Financeiro,Coordenador,4187,2022-11-27,0,Solteiro,Curitiba,Ensino Médio
+852,Funcionário 852,43,Feminino,Vendas,Analista,13707,2018-06-20,4,Viúvo,Rio de Janeiro,Ensino Médio
+853,Funcionário 853,63,Feminino,Marketing,Diretor,4330,2021-05-22,1,Casado,São Paulo,Doutorado
+854,Funcionário 854,51,Masculino,Financeiro,Analista,12551,2015-09-06,7,Solteiro,Curitiba,Doutorado
+855,Funcionário 855,31,Feminino,Marketing,Assistente,6841,2010-10-12,12,Casado,Belo Horizonte,Superior Completo
+856,Funcionário 856,43,Feminino,RH,Analista,5606,2013-04-02,10,Solteiro,São Paulo,Doutorado
+857,Funcionário 857,62,Masculino,Logística,Assistente,10468,2020-11-13,2,Divorciado,São Paulo,Superior Completo
+858,Funcionário 858,44,Feminino,Financeiro,Assistente,2060,2018-02-13,5,Solteiro,Curitiba,Ensino Médio
+859,Funcionário 859,26,Masculino,RH,Assistente,13582,2021-10-29,1,Viúvo,Belo Horizonte,Superior Completo
+860,Funcionário 860,43,Masculino,Financeiro,Diretor,12105,2012-02-23,11,Divorciado,Rio de Janeiro,Superior Completo
+861,Funcionário 861,64,Masculino,Financeiro,Analista,5927,2012-08-07,10,Viúvo,Curitiba,Pós-Graduação
+862,Funcionário 862,39,Feminino,RH,Analista,8296,2020-10-14,2,Divorciado,Belo Horizonte,Doutorado
+863,Funcionário 863,64,Feminino,Vendas,Diretor,4591,2010-02-14,13,Casado,São Paulo,Superior Completo
+864,Funcionário 864,47,Masculino,TI,Coordenador,10758,2014-12-16,8,Viúvo,Belo Horizonte,Ensino Médio
+865,Funcionário 865,60,Feminino,Marketing,Gerente,14127,2022-07-03,0,Solteiro,São Paulo,Mestrado
+866,Funcionário 866,34,Feminino,Financeiro,Analista,11763,2015-09-13,7,Casado,Curitiba,Superior Completo
+867,Funcionário 867,43,Masculino,Marketing,Gerente,14909,2019-07-31,3,Solteiro,Curitiba,Doutorado
+868,Funcionário 868,53,Masculino,Logística,Diretor,8121,2012-04-09,11,Divorciado,Porto Alegre,Pós-Graduação
+869,Funcionário 869,18,Feminino,RH,Coordenador,3200,2015-03-25,8,Divorciado,Porto Alegre,Ensino Médio
+870,Funcionário 870,25,Masculino,Marketing,Coordenador,14601,2017-01-25,6,Solteiro,Porto Alegre,Pós-Graduação
+871,Funcionário 871,52,Feminino,RH,Coordenador,4854,2011-11-23,11,Solteiro,Curitiba,Mestrado
+872,Funcionário 872,32,Feminino,Marketing,Diretor,13087,2021-01-02,2,Casado,Rio de Janeiro,Superior Completo
+873,Funcionário 873,64,Feminino,TI,Assistente,9024,2012-07-20,10,Solteiro,Curitiba,Superior Completo
+874,Funcionário 874,39,Feminino,TI,Assistente,11428,2019-04-30,4,Viúvo,Belo Horizonte,Doutorado
+875,Funcionário 875,31,Masculino,TI,Gerente,8972,2010-05-28,12,Viúvo,Curitiba,Superior Completo
+876,Funcionário 876,43,Masculino,TI,Assistente,2136,2012-10-29,10,Solteiro,Curitiba,Ensino Médio
+877,Funcionário 877,45,Masculino,TI,Assistente,3029,2013-08-04,9,Viúvo,São Paulo,Mestrado
+878,Funcionário 878,40,Masculino,TI,Coordenador,12348,2011-01-23,12,Solteiro,São Paulo,Pós-Graduação
+879,Funcionário 879,31,Feminino,RH,Coordenador,4594,2018-07-19,4,Casado,São Paulo,Mestrado
+880,Funcionário 880,41,Feminino,Financeiro,Gerente,9206,2015-02-17,8,Viúvo,Curitiba,Superior Completo
+881,Funcionário 881,19,Masculino,Marketing,Analista,2661,2019-10-29,3,Viúvo,Rio de Janeiro,Pós-Graduação
+882,Funcionário 882,62,Feminino,TI,Gerente,4472,2012-07-04,10,Solteiro,Belo Horizonte,Doutorado
+883,Funcionário 883,43,Feminino,RH,Gerente,12869,2015-02-22,8,Viúvo,Belo Horizonte,Mestrado
+884,Funcionário 884,31,Feminino,RH,Diretor,12500,2020-04-06,3,Divorciado,Rio de Janeiro,Pós-Graduação
+885,Funcionário 885,24,Masculino,RH,Diretor,2086,2010-10-05,12,Casado,Rio de Janeiro,Pós-Graduação
+886,Funcionário 886,20,Masculino,Financeiro,Gerente,12704,2015-06-01,7,Casado,Belo Horizonte,Pós-Graduação
+887,Funcionário 887,64,Masculino,Marketing,Gerente,8219,2015-02-03,8,Viúvo,Porto Alegre,Ensino Médio
+888,Funcionário 888,40,Feminino,Financeiro,Gerente,10143,2018-04-25,5,Viúvo,São Paulo,Mestrado
+889,Funcionário 889,63,Masculino,Vendas,Assistente,8968,2019-03-26,4,Divorciado,São Paulo,Pós-Graduação
+890,Funcionário 890,60,Masculino,RH,Diretor,13134,2022-11-27,0,Divorciado,Belo Horizonte,Mestrado
+891,Funcionário 891,64,Masculino,Vendas,Gerente,4773,2015-12-23,7,Viúvo,Rio de Janeiro,Pós-Graduação
+892,Funcionário 892,62,Masculino,Logística,Coordenador,12696,2022-10-20,0,Viúvo,Porto Alegre,Doutorado
+893,Funcionário 893,35,Masculino,TI,Coordenador,13502,2013-03-16,10,Divorciado,Belo Horizonte,Doutorado
+894,Funcionário 894,55,Masculino,TI,Assistente,3700,2011-05-05,12,Solteiro,São Paulo,Doutorado
+895,Funcionário 895,52,Feminino,Financeiro,Assistente,13862,2016-11-30,6,Divorciado,Curitiba,Superior Completo
+896,Funcionário 896,32,Feminino,Marketing,Analista,4700,2013-03-28,10,Solteiro,Rio de Janeiro,Pós-Graduação
+897,Funcionário 897,42,Masculino,Vendas,Analista,8815,2022-04-07,1,Casado,Curitiba,Superior Completo
+898,Funcionário 898,54,Masculino,Marketing,Analista,13821,2021-08-29,1,Casado,Belo Horizonte,Mestrado
+899,Funcionário 899,45,Feminino,Financeiro,Assistente,14782,2016-10-24,6,Divorciado,São Paulo,Superior Completo
+900,Funcionário 900,27,Feminino,TI,Assistente,3647,2015-02-20,8,Solteiro,Porto Alegre,Mestrado
+901,Funcionário 901,56,Masculino,Marketing,Assistente,8038,2016-09-28,6,Divorciado,Curitiba,Mestrado
+902,Funcionário 902,34,Masculino,Marketing,Coordenador,7164,2014-06-19,8,Divorciado,Porto Alegre,Mestrado
+903,Funcionário 903,56,Masculino,TI,Assistente,7520,2010-10-15,12,Solteiro,São Paulo,Superior Completo
+904,Funcionário 904,39,Masculino,Vendas,Coordenador,13510,2021-09-22,1,Divorciado,Curitiba,Pós-Graduação
+905,Funcionário 905,43,Feminino,TI,Analista,5687,2015-03-23,8,Casado,Porto Alegre,Superior Completo
+906,Funcionário 906,61,Masculino,Marketing,Analista,2596,2013-03-07,10,Viúvo,Porto Alegre,Pós-Graduação
+907,Funcionário 907,42,Masculino,Vendas,Analista,6545,2010-05-10,13,Viúvo,Curitiba,Pós-Graduação
+908,Funcionário 908,34,Masculino,Vendas,Gerente,10676,2016-06-21,6,Divorciado,São Paulo,Mestrado
+909,Funcionário 909,30,Masculino,TI,Gerente,10837,2010-05-24,12,Solteiro,Porto Alegre,Superior Completo
+910,Funcionário 910,37,Feminino,Marketing,Diretor,13281,2010-01-16,13,Solteiro,Belo Horizonte,Pós-Graduação
+911,Funcionário 911,42,Feminino,Financeiro,Diretor,6757,2010-09-02,12,Casado,Curitiba,Doutorado
+912,Funcionário 912,21,Feminino,Marketing,Diretor,6384,2012-07-15,10,Solteiro,Rio de Janeiro,Pós-Graduação
+913,Funcionário 913,27,Masculino,RH,Gerente,10912,2018-09-14,4,Solteiro,Rio de Janeiro,Doutorado
+914,Funcionário 914,20,Masculino,Logística,Gerente,6733,2015-12-17,7,Casado,São Paulo,Superior Completo
+915,Funcionário 915,58,Feminino,Financeiro,Diretor,9081,2012-06-05,10,Divorciado,Belo Horizonte,Superior Completo
+916,Funcionário 916,62,Masculino,Vendas,Diretor,10690,2010-12-07,12,Viúvo,Porto Alegre,Superior Completo
+917,Funcionário 917,35,Masculino,Financeiro,Assistente,9117,2015-08-14,7,Casado,Rio de Janeiro,Pós-Graduação
+918,Funcionário 918,64,Feminino,Vendas,Diretor,6729,2019-04-22,4,Divorciado,São Paulo,Ensino Médio
+919,Funcionário 919,53,Feminino,Vendas,Assistente,3673,2020-10-25,2,Casado,Belo Horizonte,Pós-Graduação
+920,Funcionário 920,64,Feminino,Financeiro,Coordenador,13259,2010-11-02,12,Divorciado,Belo Horizonte,Pós-Graduação
+921,Funcionário 921,39,Feminino,Vendas,Gerente,10306,2012-06-26,10,Casado,São Paulo,Mestrado
+922,Funcionário 922,51,Masculino,Vendas,Diretor,13171,2017-04-08,6,Divorciado,São Paulo,Mestrado
+923,Funcionário 923,64,Masculino,RH,Gerente,14961,2020-05-20,2,Casado,Porto Alegre,Pós-Graduação
+924,Funcionário 924,25,Feminino,Marketing,Gerente,11928,2021-01-25,2,Divorciado,São Paulo,Doutorado
+925,Funcionário 925,57,Masculino,Marketing,Gerente,13803,2013-10-03,9,Casado,Porto Alegre,Mestrado
+926,Funcionário 926,61,Feminino,Logística,Coordenador,9178,2010-11-17,12,Viúvo,Porto Alegre,Pós-Graduação
+927,Funcionário 927,36,Feminino,Logística,Analista,12445,2022-09-29,0,Viúvo,Curitiba,Ensino Médio
+928,Funcionário 928,59,Masculino,RH,Diretor,4294,2021-02-11,2,Solteiro,Belo Horizonte,Doutorado
+929,Funcionário 929,58,Feminino,Logística,Analista,5630,2013-02-05,10,Divorciado,Belo Horizonte,Superior Completo
+930,Funcionário 930,54,Masculino,Financeiro,Analista,2146,2017-01-22,6,Casado,Belo Horizonte,Pós-Graduação
+931,Funcionário 931,23,Masculino,TI,Analista,14174,2021-01-25,2,Divorciado,Curitiba,Pós-Graduação
+932,Funcionário 932,43,Masculino,TI,Gerente,5453,2019-03-22,4,Viúvo,Porto Alegre,Doutorado
+933,Funcionário 933,51,Masculino,TI,Assistente,6507,2012-03-28,11,Divorciado,Porto Alegre,Mestrado
+934,Funcionário 934,62,Feminino,RH,Gerente,7783,2010-01-12,13,Casado,São Paulo,Mestrado
+935,Funcionário 935,23,Masculino,RH,Gerente,9751,2010-07-14,12,Divorciado,Curitiba,Mestrado
+936,Funcionário 936,54,Feminino,Vendas,Analista,12602,2016-12-12,6,Casado,São Paulo,Superior Completo
+937,Funcionário 937,50,Feminino,TI,Gerente,7628,2017-10-13,5,Viúvo,Curitiba,Doutorado
+938,Funcionário 938,39,Feminino,Financeiro,Analista,10328,2016-02-08,7,Viúvo,São Paulo,Doutorado
+939,Funcionário 939,38,Feminino,Logística,Assistente,5360,2018-03-29,5,Viúvo,Rio de Janeiro,Mestrado
+940,Funcionário 940,23,Masculino,Financeiro,Diretor,5005,2015-09-09,7,Solteiro,Belo Horizonte,Mestrado
+941,Funcionário 941,23,Masculino,Logística,Analista,5552,2020-08-03,2,Viúvo,Belo Horizonte,Ensino Médio
+942,Funcionário 942,21,Feminino,TI,Assistente,2018,2011-03-20,12,Divorciado,Porto Alegre,Ensino Médio
+943,Funcionário 943,47,Feminino,TI,Diretor,4242,2010-10-25,12,Solteiro,Rio de Janeiro,Pós-Graduação
+944,Funcionário 944,28,Masculino,TI,Coordenador,8318,2012-04-24,11,Viúvo,Belo Horizonte,Pós-Graduação
+945,Funcionário 945,47,Feminino,RH,Analista,7097,2012-10-12,10,Divorciado,Porto Alegre,Doutorado
+946,Funcionário 946,48,Masculino,Logística,Analista,10640,2013-10-16,9,Divorciado,Rio de Janeiro,Doutorado
+947,Funcionário 947,41,Feminino,RH,Coordenador,3948,2013-10-29,9,Divorciado,Belo Horizonte,Superior Completo
+948,Funcionário 948,26,Masculino,RH,Coordenador,11137,2011-07-08,11,Casado,São Paulo,Superior Completo
+949,Funcionário 949,20,Feminino,Marketing,Analista,7618,2016-06-08,6,Solteiro,Curitiba,Ensino Médio
+950,Funcionário 950,48,Feminino,Financeiro,Coordenador,6236,2022-05-14,0,Divorciado,Rio de Janeiro,Pós-Graduação
+951,Funcionário 951,57,Masculino,Financeiro,Gerente,8901,2013-06-23,9,Casado,Porto Alegre,Ensino Médio
+952,Funcionário 952,54,Feminino,Vendas,Diretor,3920,2013-06-14,9,Viúvo,Rio de Janeiro,Ensino Médio
+953,Funcionário 953,53,Feminino,RH,Diretor,13169,2010-07-04,12,Divorciado,Porto Alegre,Pós-Graduação
+954,Funcionário 954,41,Masculino,Logística,Diretor,6188,2022-06-30,0,Casado,Rio de Janeiro,Superior Completo
+955,Funcionário 955,48,Feminino,Marketing,Gerente,14207,2016-08-07,6,Divorciado,Porto Alegre,Pós-Graduação
+956,Funcionário 956,23,Masculino,Marketing,Coordenador,2238,2022-02-18,1,Solteiro,Belo Horizonte,Mestrado
+957,Funcionário 957,19,Masculino,Financeiro,Assistente,2204,2016-01-19,7,Solteiro,São Paulo,Mestrado
+958,Funcionário 958,37,Feminino,RH,Coordenador,12799,2020-01-21,3,Viúvo,Belo Horizonte,Mestrado
+959,Funcionário 959,45,Feminino,Vendas,Analista,7552,2022-10-28,0,Divorciado,São Paulo,Doutorado
+960,Funcionário 960,28,Feminino,RH,Diretor,14532,2015-02-25,8,Casado,Belo Horizonte,Superior Completo
+961,Funcionário 961,21,Feminino,TI,Coordenador,6927,2021-10-06,1,Viúvo,Belo Horizonte,Superior Completo
+962,Funcionário 962,32,Feminino,RH,Assistente,13580,2011-06-06,11,Divorciado,Rio de Janeiro,Doutorado
+963,Funcionário 963,23,Feminino,TI,Analista,13164,2015-03-03,8,Viúvo,Curitiba,Ensino Médio
+964,Funcionário 964,47,Feminino,TI,Gerente,6390,2016-12-27,6,Casado,Porto Alegre,Mestrado
+965,Funcionário 965,55,Masculino,Vendas,Gerente,4687,2020-06-06,2,Viúvo,Porto Alegre,Mestrado
+966,Funcionário 966,19,Feminino,Logística,Assistente,6951,2021-05-18,1,Viúvo,Porto Alegre,Ensino Médio
+967,Funcionário 967,32,Masculino,Financeiro,Analista,8160,2022-10-18,0,Viúvo,São Paulo,Pós-Graduação
+968,Funcionário 968,28,Feminino,RH,Diretor,14358,2022-02-03,1,Divorciado,Porto Alegre,Pós-Graduação
+969,Funcionário 969,25,Feminino,TI,Coordenador,7388,2019-07-12,3,Casado,Porto Alegre,Superior Completo
+970,Funcionário 970,43,Masculino,RH,Analista,11540,2013-11-10,9,Solteiro,Rio de Janeiro,Doutorado
+971,Funcionário 971,62,Feminino,Logística,Gerente,14592,2014-08-22,8,Divorciado,Belo Horizonte,Superior Completo
+972,Funcionário 972,61,Feminino,Financeiro,Assistente,7126,2022-10-09,0,Solteiro,Porto Alegre,Pós-Graduação
+973,Funcionário 973,22,Masculino,Logística,Assistente,2816,2011-06-11,11,Solteiro,Curitiba,Ensino Médio
+974,Funcionário 974,23,Feminino,Financeiro,Coordenador,11012,2017-04-14,6,Divorciado,Porto Alegre,Superior Completo
+975,Funcionário 975,43,Feminino,Marketing,Assistente,2192,2015-12-13,7,Divorciado,São Paulo,Mestrado
+976,Funcionário 976,21,Feminino,Financeiro,Assistente,3776,2010-10-07,12,Casado,São Paulo,Mestrado
+977,Funcionário 977,36,Masculino,Vendas,Analista,5645,2018-02-12,5,Casado,São Paulo,Ensino Médio
+978,Funcionário 978,37,Feminino,Logística,Diretor,14816,2020-11-21,2,Viúvo,Porto Alegre,Pós-Graduação
+979,Funcionário 979,50,Feminino,TI,Coordenador,8314,2017-04-23,6,Solteiro,Rio de Janeiro,Mestrado
+980,Funcionário 980,37,Feminino,Marketing,Analista,10442,2017-12-03,5,Casado,Curitiba,Mestrado
+981,Funcionário 981,29,Feminino,Vendas,Diretor,3788,2014-10-18,8,Viúvo,Porto Alegre,Doutorado
+982,Funcionário 982,64,Masculino,RH,Analista,9374,2020-11-25,2,Casado,Rio de Janeiro,Superior Completo
+983,Funcionário 983,18,Masculino,Logística,Analista,5700,2016-06-19,6,Divorciado,Rio de Janeiro,Pós-Graduação
+984,Funcionário 984,43,Feminino,TI,Assistente,12655,2022-02-14,1,Casado,Porto Alegre,Superior Completo
+985,Funcionário 985,31,Feminino,Financeiro,Diretor,11359,2021-04-24,2,Solteiro,Porto Alegre,Pós-Graduação
+986,Funcionário 986,55,Masculino,TI,Coordenador,5893,2014-09-05,8,Casado,Rio de Janeiro,Mestrado
+987,Funcionário 987,54,Masculino,RH,Coordenador,8811,2017-05-10,5,Solteiro,Rio de Janeiro,Doutorado
+988,Funcionário 988,28,Feminino,Marketing,Diretor,11288,2017-12-05,5,Divorciado,Rio de Janeiro,Superior Completo
+989,Funcionário 989,53,Masculino,Marketing,Assistente,4679,2022-06-02,0,Solteiro,Porto Alegre,Mestrado
+990,Funcionário 990,30,Feminino,Logística,Gerente,12039,2017-08-08,5,Casado,Rio de Janeiro,Pós-Graduação
+991,Funcionário 991,60,Masculino,Marketing,Analista,5904,2013-01-24,10,Viúvo,São Paulo,Superior Completo
+992,Funcionário 992,20,Masculino,Logística,Assistente,9260,2018-03-08,5,Divorciado,Porto Alegre,Superior Completo
+993,Funcionário 993,50,Masculino,Logística,Diretor,2504,2021-08-30,1,Casado,São Paulo,Mestrado
+994,Funcionário 994,23,Masculino,Logística,Analista,11813,2021-08-14,1,Divorciado,Belo Horizonte,Superior Completo
+995,Funcionário 995,27,Feminino,Financeiro,Coordenador,12664,2010-07-14,12,Divorciado,Porto Alegre,Doutorado
+996,Funcionário 996,22,Masculino,Vendas,Gerente,12738,2011-10-25,11,Casado,Belo Horizonte,Doutorado
+997,Funcionário 997,40,Masculino,Logística,Coordenador,11579,2011-04-25,12,Casado,Rio de Janeiro,Mestrado
+998,Funcionário 998,27,Feminino,Logística,Diretor,13186,2021-07-20,1,Viúvo,Rio de Janeiro,Pós-Graduação
+999,Funcionário 999,61,Masculino,Vendas,Analista,8773,2013-11-24,9,Divorciado,Curitiba,Mestrado
+1000,Funcionário 1000,19,Masculino,TI,Diretor,5816,2017-06-01,5,Divorciado,Rio de Janeiro,Doutorado
